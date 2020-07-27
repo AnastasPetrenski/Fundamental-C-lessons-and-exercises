@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercises04List\ProblemSolvingInterviewTask\bin\Debug\netcoreapp3.1\ProblemSolvingInterviewTask.exe
+C:\Users\anastas\source\repos\FundamentalExercises04List\ProblemSolvingInterviewTask\bin\Debug\netcoreapp3.1\ProblemSolvingInterviewTask.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\ProblemSolvingInterviewTask\bin\Debug\netcoreapp3.1\ProblemSolvingInterviewTask.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\ProblemSolvingInterviewTask\bin\Debug\netcoreapp3.1\ProblemSolvingInterviewTask.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\ProblemSolvingInterviewTask\bin\Debug\netcoreapp3.1\ProblemSolvingInterviewTask.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\ProblemSolvingInterviewTask\bin\Debug\netcoreapp3.1\ProblemSolvingInterviewTask.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\ProblemSolvingInterviewTask\obj\Debug\netcoreapp3.1\ProblemSolvingInterviewTask.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\ProblemSolvingInterviewTask\obj\Debug\netcoreapp3.1\ProblemSolvingInterviewTask.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises04List\ProblemSolvingInterviewTask\obj\Debug\netcoreapp3.1\ProblemSolvingInterviewTask.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\ProblemSolvingInterviewTask\obj\Debug\netcoreapp3.1\ProblemSolvingInterviewTask.pdb

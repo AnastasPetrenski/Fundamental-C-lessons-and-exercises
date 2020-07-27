@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\RefacorSpecialNumber\bin\Debug\netcoreapp3.1\RefacorSpecialNumber.exe
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\RefacorSpecialNumber\bin\Debug\netcoreapp3.1\RefacorSpecialNumber.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\RefacorSpecialNumber\bin\Debug\netcoreapp3.1\RefacorSpecialNumber.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\RefacorSpecialNumber\bin\Debug\netcoreapp3.1\RefacorSpecialNumber.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\RefacorSpecialNumber\bin\Debug\netcoreapp3.1\RefacorSpecialNumber.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\RefacorSpecialNumber\bin\Debug\netcoreapp3.1\RefacorSpecialNumber.pdb
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\RefacorSpecialNumber\obj\Debug\netcoreapp3.1\RefacorSpecialNumber.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\RefacorSpecialNumber\obj\Debug\netcoreapp3.1\RefacorSpecialNumber.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\RefacorSpecialNumber\obj\Debug\netcoreapp3.1\RefacorSpecialNumber.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\RefacorSpecialNumber\obj\Debug\netcoreapp3.1\RefacorSpecialNumber.pdb

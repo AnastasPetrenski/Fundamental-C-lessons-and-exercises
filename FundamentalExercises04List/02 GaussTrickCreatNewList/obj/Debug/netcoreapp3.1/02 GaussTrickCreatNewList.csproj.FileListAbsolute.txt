@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercises04List\02 GaussTrickCreatNewList\bin\Debug\netcoreapp3.1\02 GaussTrickCreatNewList.exe
+C:\Users\anastas\source\repos\FundamentalExercises04List\02 GaussTrickCreatNewList\bin\Debug\netcoreapp3.1\02 GaussTrickCreatNewList.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\02 GaussTrickCreatNewList\bin\Debug\netcoreapp3.1\02 GaussTrickCreatNewList.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\02 GaussTrickCreatNewList\bin\Debug\netcoreapp3.1\02 GaussTrickCreatNewList.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\02 GaussTrickCreatNewList\bin\Debug\netcoreapp3.1\02 GaussTrickCreatNewList.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\02 GaussTrickCreatNewList\bin\Debug\netcoreapp3.1\02 GaussTrickCreatNewList.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\02 GaussTrickCreatNewList\obj\Debug\netcoreapp3.1\02 GaussTrickCreatNewList.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\02 GaussTrickCreatNewList\obj\Debug\netcoreapp3.1\02 GaussTrickCreatNewList.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises04List\02 GaussTrickCreatNewList\obj\Debug\netcoreapp3.1\02 GaussTrickCreatNewList.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\02 GaussTrickCreatNewList\obj\Debug\netcoreapp3.1\02 GaussTrickCreatNewList.pdb

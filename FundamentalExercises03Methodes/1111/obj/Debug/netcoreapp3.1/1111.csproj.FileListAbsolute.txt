@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\1111\bin\Debug\netcoreapp3.1\1111.exe
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\1111\bin\Debug\netcoreapp3.1\1111.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\1111\bin\Debug\netcoreapp3.1\1111.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\1111\bin\Debug\netcoreapp3.1\1111.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\1111\bin\Debug\netcoreapp3.1\1111.dll
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\1111\bin\Debug\netcoreapp3.1\1111.pdb
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\1111\obj\Debug\netcoreapp3.1\1111.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\1111\obj\Debug\netcoreapp3.1\1111.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\1111\obj\Debug\netcoreapp3.1\1111.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\1111\obj\Debug\netcoreapp3.1\1111.dll
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\1111\obj\Debug\netcoreapp3.1\1111.pdb

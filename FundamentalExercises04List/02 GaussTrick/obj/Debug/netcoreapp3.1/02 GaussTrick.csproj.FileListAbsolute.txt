@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises04List\02 GaussTrick\bin\Debug\netcoreapp3.1\02 GaussTrick.exe
+C:\Users\anastas\source\repos\FundamentalExercises04List\02 GaussTrick\bin\Debug\netcoreapp3.1\02 GaussTrick.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\02 GaussTrick\bin\Debug\netcoreapp3.1\02 GaussTrick.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\02 GaussTrick\bin\Debug\netcoreapp3.1\02 GaussTrick.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\02 GaussTrick\bin\Debug\netcoreapp3.1\02 GaussTrick.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\02 GaussTrick\bin\Debug\netcoreapp3.1\02 GaussTrick.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\02 GaussTrick\obj\Debug\netcoreapp3.1\02 GaussTrick.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\02 GaussTrick\obj\Debug\netcoreapp3.1\02 GaussTrick.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\02 GaussTrick\obj\Debug\netcoreapp3.1\02 GaussTrick.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises04List\02 GaussTrick\obj\Debug\netcoreapp3.1\02 GaussTrick.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\02 GaussTrick\obj\Debug\netcoreapp3.1\02 GaussTrick.pdb

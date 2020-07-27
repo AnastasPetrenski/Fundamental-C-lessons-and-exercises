@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\FromLeftToRight\bin\Debug\netcoreapp3.1\FromLeftToRight.exe
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\FromLeftToRight\bin\Debug\netcoreapp3.1\FromLeftToRight.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\FromLeftToRight\bin\Debug\netcoreapp3.1\FromLeftToRight.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\FromLeftToRight\bin\Debug\netcoreapp3.1\FromLeftToRight.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\FromLeftToRight\bin\Debug\netcoreapp3.1\FromLeftToRight.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\FromLeftToRight\bin\Debug\netcoreapp3.1\FromLeftToRight.pdb
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\FromLeftToRight\obj\Debug\netcoreapp3.1\FromLeftToRight.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\FromLeftToRight\obj\Debug\netcoreapp3.1\FromLeftToRight.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\FromLeftToRight\obj\Debug\netcoreapp3.1\FromLeftToRight.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\FromLeftToRight\obj\Debug\netcoreapp3.1\FromLeftToRight.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\FromLeftToRight\obj\Debug\netcoreapp3.1\FromLeftToRight.pdb

@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\03 Substring\bin\Debug\netcoreapp3.1\03 Substring.exe
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\03 Substring\bin\Debug\netcoreapp3.1\03 Substring.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\03 Substring\bin\Debug\netcoreapp3.1\03 Substring.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\03 Substring\bin\Debug\netcoreapp3.1\03 Substring.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\03 Substring\bin\Debug\netcoreapp3.1\03 Substring.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\03 Substring\bin\Debug\netcoreapp3.1\03 Substring.pdb
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\03 Substring\obj\Debug\netcoreapp3.1\03 Substring.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\03 Substring\obj\Debug\netcoreapp3.1\03 Substring.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\03 Substring\obj\Debug\netcoreapp3.1\03 Substring.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\03 Substring\obj\Debug\netcoreapp3.1\03 Substring.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\03 Substring\obj\Debug\netcoreapp3.1\03 Substring.pdb

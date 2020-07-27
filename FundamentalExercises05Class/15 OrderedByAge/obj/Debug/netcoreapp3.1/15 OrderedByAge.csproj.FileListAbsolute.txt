@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercises05Class\15 OrderedByAge\bin\Debug\netcoreapp3.1\15 OrderedByAge.exe
+C:\Users\anastas\source\repos\FundamentalExercises05Class\15 OrderedByAge\bin\Debug\netcoreapp3.1\15 OrderedByAge.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\15 OrderedByAge\bin\Debug\netcoreapp3.1\15 OrderedByAge.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\15 OrderedByAge\bin\Debug\netcoreapp3.1\15 OrderedByAge.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\15 OrderedByAge\bin\Debug\netcoreapp3.1\15 OrderedByAge.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\15 OrderedByAge\bin\Debug\netcoreapp3.1\15 OrderedByAge.pdb
+C:\Users\anastas\source\repos\FundamentalExercises05Class\15 OrderedByAge\obj\Debug\netcoreapp3.1\15 OrderedByAge.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\15 OrderedByAge\obj\Debug\netcoreapp3.1\15 OrderedByAge.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises05Class\15 OrderedByAge\obj\Debug\netcoreapp3.1\15 OrderedByAge.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\15 OrderedByAge\obj\Debug\netcoreapp3.1\15 OrderedByAge.pdb

@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\12 StudentAcademy\bin\Debug\netcoreapp3.1\12 StudentAcademy.exe
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\12 StudentAcademy\obj\Debug\netcoreapp3.1\12 StudentAcademy.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\12 StudentAcademy\obj\Debug\netcoreapp3.1\12 StudentAcademy.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\12 StudentAcademy\bin\Debug\netcoreapp3.1\12 StudentAcademy.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\12 StudentAcademy\bin\Debug\netcoreapp3.1\12 StudentAcademy.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\12 StudentAcademy\bin\Debug\netcoreapp3.1\12 StudentAcademy.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\12 StudentAcademy\bin\Debug\netcoreapp3.1\12 StudentAcademy.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\12 StudentAcademy\bin\Debug\netcoreapp3.1\12 StudentAcademy.pdb
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\12 StudentAcademy\obj\Debug\netcoreapp3.1\12 StudentAcademy.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\12 StudentAcademy\obj\Debug\netcoreapp3.1\12 StudentAcademy.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\12 StudentAcademy\obj\Debug\netcoreapp3.1\12 StudentAcademy.pdb

@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises05Class\20 ShopingSpree\bin\Debug\netcoreapp3.1\20 ShopingSpree.exe
+C:\Users\anastas\source\repos\FundamentalExercises05Class\20 ShopingSpree\bin\Debug\netcoreapp3.1\20 ShopingSpree.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\20 ShopingSpree\bin\Debug\netcoreapp3.1\20 ShopingSpree.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\20 ShopingSpree\bin\Debug\netcoreapp3.1\20 ShopingSpree.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\20 ShopingSpree\bin\Debug\netcoreapp3.1\20 ShopingSpree.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\20 ShopingSpree\bin\Debug\netcoreapp3.1\20 ShopingSpree.pdb
+C:\Users\anastas\source\repos\FundamentalExercises05Class\20 ShopingSpree\obj\Debug\netcoreapp3.1\20 ShopingSpree.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\20 ShopingSpree\obj\Debug\netcoreapp3.1\20 ShopingSpree.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\20 ShopingSpree\obj\Debug\netcoreapp3.1\20 ShopingSpree.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises05Class\20 ShopingSpree\obj\Debug\netcoreapp3.1\20 ShopingSpree.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\20 ShopingSpree\obj\Debug\netcoreapp3.1\20 ShopingSpree.pdb

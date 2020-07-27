@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\ArraySplit\bin\Debug\netcoreapp3.1\ArraySplit.exe
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\ArraySplit\bin\Debug\netcoreapp3.1\ArraySplit.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\ArraySplit\bin\Debug\netcoreapp3.1\ArraySplit.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\ArraySplit\bin\Debug\netcoreapp3.1\ArraySplit.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\ArraySplit\bin\Debug\netcoreapp3.1\ArraySplit.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\ArraySplit\bin\Debug\netcoreapp3.1\ArraySplit.pdb
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\ArraySplit\obj\Debug\netcoreapp3.1\ArraySplit.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\ArraySplit\obj\Debug\netcoreapp3.1\ArraySplit.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\ArraySplit\obj\Debug\netcoreapp3.1\ArraySplit.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\ArraySplit\obj\Debug\netcoreapp3.1\ArraySplit.pdb
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\ArraySplit\obj\Debug\netcoreapp3.1\ArraySplit.csprojAssemblyReference.cache

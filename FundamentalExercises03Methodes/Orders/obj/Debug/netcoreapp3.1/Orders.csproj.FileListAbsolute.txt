@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\Orders\bin\Debug\netcoreapp3.1\Orders.exe
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\Orders\bin\Debug\netcoreapp3.1\Orders.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\Orders\bin\Debug\netcoreapp3.1\Orders.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\Orders\bin\Debug\netcoreapp3.1\Orders.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\Orders\bin\Debug\netcoreapp3.1\Orders.dll
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\Orders\bin\Debug\netcoreapp3.1\Orders.pdb
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\Orders\obj\Debug\netcoreapp3.1\Orders.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\Orders\obj\Debug\netcoreapp3.1\Orders.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\Orders\obj\Debug\netcoreapp3.1\Orders.dll
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\Orders\obj\Debug\netcoreapp3.1\Orders.pdb

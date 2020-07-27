@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\18 MobbaChallangerNestedDictionary\bin\Debug\netcoreapp3.1\18 MobbaChallangerNestedDictionary.exe
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\18 MobbaChallangerNestedDictionary\bin\Debug\netcoreapp3.1\18 MobbaChallangerNestedDictionary.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\18 MobbaChallangerNestedDictionary\bin\Debug\netcoreapp3.1\18 MobbaChallangerNestedDictionary.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\18 MobbaChallangerNestedDictionary\bin\Debug\netcoreapp3.1\18 MobbaChallangerNestedDictionary.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\18 MobbaChallangerNestedDictionary\bin\Debug\netcoreapp3.1\18 MobbaChallangerNestedDictionary.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\18 MobbaChallangerNestedDictionary\bin\Debug\netcoreapp3.1\18 MobbaChallangerNestedDictionary.pdb
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\18 MobbaChallangerNestedDictionary\obj\Debug\netcoreapp3.1\18 MobbaChallangerNestedDictionary.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\18 MobbaChallangerNestedDictionary\obj\Debug\netcoreapp3.1\18 MobbaChallangerNestedDictionary.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\18 MobbaChallangerNestedDictionary\obj\Debug\netcoreapp3.1\18 MobbaChallangerNestedDictionary.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\18 MobbaChallangerNestedDictionary\obj\Debug\netcoreapp3.1\18 MobbaChallangerNestedDictionary.pdb

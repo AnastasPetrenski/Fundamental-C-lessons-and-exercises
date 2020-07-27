@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\SumEvenNumbers\bin\Debug\netcoreapp3.1\SumEvenNumbers.exe
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\SumEvenNumbers\bin\Debug\netcoreapp3.1\SumEvenNumbers.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\SumEvenNumbers\bin\Debug\netcoreapp3.1\SumEvenNumbers.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\SumEvenNumbers\bin\Debug\netcoreapp3.1\SumEvenNumbers.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\SumEvenNumbers\bin\Debug\netcoreapp3.1\SumEvenNumbers.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\SumEvenNumbers\bin\Debug\netcoreapp3.1\SumEvenNumbers.pdb
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\SumEvenNumbers\obj\Debug\netcoreapp3.1\SumEvenNumbers.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\SumEvenNumbers\obj\Debug\netcoreapp3.1\SumEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\SumEvenNumbers\obj\Debug\netcoreapp3.1\SumEvenNumbers.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\SumEvenNumbers\obj\Debug\netcoreapp3.1\SumEvenNumbers.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\SumEvenNumbers\obj\Debug\netcoreapp3.1\SumEvenNumbers.pdb

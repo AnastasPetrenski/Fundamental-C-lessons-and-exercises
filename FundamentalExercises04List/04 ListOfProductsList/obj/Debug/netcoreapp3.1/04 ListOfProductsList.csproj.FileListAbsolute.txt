@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercises04List\04 ListOfProductsList\bin\Debug\netcoreapp3.1\04 ListOfProductsList.exe
+C:\Users\anastas\source\repos\FundamentalExercises04List\04 ListOfProductsList\bin\Debug\netcoreapp3.1\04 ListOfProductsList.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\04 ListOfProductsList\bin\Debug\netcoreapp3.1\04 ListOfProductsList.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\04 ListOfProductsList\bin\Debug\netcoreapp3.1\04 ListOfProductsList.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\04 ListOfProductsList\bin\Debug\netcoreapp3.1\04 ListOfProductsList.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\04 ListOfProductsList\bin\Debug\netcoreapp3.1\04 ListOfProductsList.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\04 ListOfProductsList\obj\Debug\netcoreapp3.1\04 ListOfProductsList.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\04 ListOfProductsList\obj\Debug\netcoreapp3.1\04 ListOfProductsList.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises04List\04 ListOfProductsList\obj\Debug\netcoreapp3.1\04 ListOfProductsList.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\04 ListOfProductsList\obj\Debug\netcoreapp3.1\04 ListOfProductsList.pdb

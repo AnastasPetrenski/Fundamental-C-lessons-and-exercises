@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\PrintNumberInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumberInReverseOrder.exe
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\PrintNumberInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumberInReverseOrder.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\PrintNumberInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumberInReverseOrder.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\PrintNumberInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumberInReverseOrder.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\PrintNumberInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumberInReverseOrder.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\PrintNumberInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumberInReverseOrder.pdb
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\PrintNumberInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumberInReverseOrder.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\PrintNumberInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumberInReverseOrder.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\PrintNumberInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumberInReverseOrder.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\PrintNumberInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumberInReverseOrder.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\PrintNumberInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumberInReverseOrder.pdb

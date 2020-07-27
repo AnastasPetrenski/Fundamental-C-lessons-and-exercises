@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\03 MatchDates\bin\Debug\netcoreapp3.1\03 MatchDates.exe
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\03 MatchDates\bin\Debug\netcoreapp3.1\03 MatchDates.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\03 MatchDates\bin\Debug\netcoreapp3.1\03 MatchDates.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\03 MatchDates\bin\Debug\netcoreapp3.1\03 MatchDates.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\03 MatchDates\bin\Debug\netcoreapp3.1\03 MatchDates.dll
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\03 MatchDates\bin\Debug\netcoreapp3.1\03 MatchDates.pdb
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\03 MatchDates\obj\Debug\netcoreapp3.1\03 MatchDates.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\03 MatchDates\obj\Debug\netcoreapp3.1\03 MatchDates.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\03 MatchDates\obj\Debug\netcoreapp3.1\03 MatchDates.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\03 MatchDates\obj\Debug\netcoreapp3.1\03 MatchDates.dll
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\03 MatchDates\obj\Debug\netcoreapp3.1\03 MatchDates.pdb

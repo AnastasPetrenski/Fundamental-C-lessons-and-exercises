@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\SignOfIntegerNumbers.exe
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\SignOfIntegerNumbers.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\SignOfIntegerNumbers.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\SignOfIntegerNumbers.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\SignOfIntegerNumbers.dll
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\SignOfIntegerNumbers.pdb
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\SignOfIntegerNumbers.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\SignOfIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\SignOfIntegerNumbers.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\SignOfIntegerNumbers.dll
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\SignOfIntegerNumbers.pdb

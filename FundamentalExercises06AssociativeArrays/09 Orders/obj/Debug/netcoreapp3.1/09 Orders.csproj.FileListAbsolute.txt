@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\09 Orders\bin\Debug\netcoreapp3.1\09 Orders.exe
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\09 Orders\bin\Debug\netcoreapp3.1\09 Orders.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\09 Orders\bin\Debug\netcoreapp3.1\09 Orders.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\09 Orders\bin\Debug\netcoreapp3.1\09 Orders.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\09 Orders\bin\Debug\netcoreapp3.1\09 Orders.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\09 Orders\bin\Debug\netcoreapp3.1\09 Orders.pdb
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\09 Orders\obj\Debug\netcoreapp3.1\09 Orders.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\09 Orders\obj\Debug\netcoreapp3.1\09 Orders.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\09 Orders\obj\Debug\netcoreapp3.1\09 Orders.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\09 Orders\obj\Debug\netcoreapp3.1\09 Orders.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\09 Orders\obj\Debug\netcoreapp3.1\09 Orders.pdb

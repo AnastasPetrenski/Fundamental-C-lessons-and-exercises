@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\FundamentalExercise02Arrays\bin\Debug\netcoreapp3.1\FundamentalExercise02Arrays.exe
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\FundamentalExercise02Arrays\bin\Debug\netcoreapp3.1\FundamentalExercise02Arrays.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\FundamentalExercise02Arrays\bin\Debug\netcoreapp3.1\FundamentalExercise02Arrays.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\FundamentalExercise02Arrays\bin\Debug\netcoreapp3.1\FundamentalExercise02Arrays.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\FundamentalExercise02Arrays\bin\Debug\netcoreapp3.1\FundamentalExercise02Arrays.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\FundamentalExercise02Arrays\bin\Debug\netcoreapp3.1\FundamentalExercise02Arrays.pdb
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\FundamentalExercise02Arrays\obj\Debug\netcoreapp3.1\FundamentalExercise02Arrays.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\FundamentalExercise02Arrays\obj\Debug\netcoreapp3.1\FundamentalExercise02Arrays.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\FundamentalExercise02Arrays\obj\Debug\netcoreapp3.1\FundamentalExercise02Arrays.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\FundamentalExercise02Arrays\obj\Debug\netcoreapp3.1\FundamentalExercise02Arrays.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\FundamentalExercise02Arrays\obj\Debug\netcoreapp3.1\FundamentalExercise02Arrays.pdb

@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises05Class\01 DayOfWeek UsingDateTime\bin\Debug\netcoreapp3.1\01 DayOfWeek UsingDateTime.exe
+C:\Users\anastas\source\repos\FundamentalExercises05Class\01 DayOfWeek UsingDateTime\bin\Debug\netcoreapp3.1\01 DayOfWeek UsingDateTime.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\01 DayOfWeek UsingDateTime\bin\Debug\netcoreapp3.1\01 DayOfWeek UsingDateTime.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\01 DayOfWeek UsingDateTime\bin\Debug\netcoreapp3.1\01 DayOfWeek UsingDateTime.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\01 DayOfWeek UsingDateTime\bin\Debug\netcoreapp3.1\01 DayOfWeek UsingDateTime.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\01 DayOfWeek UsingDateTime\bin\Debug\netcoreapp3.1\01 DayOfWeek UsingDateTime.pdb
+C:\Users\anastas\source\repos\FundamentalExercises05Class\01 DayOfWeek UsingDateTime\obj\Debug\netcoreapp3.1\01 DayOfWeek UsingDateTime.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\01 DayOfWeek UsingDateTime\obj\Debug\netcoreapp3.1\01 DayOfWeek UsingDateTime.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\01 DayOfWeek UsingDateTime\obj\Debug\netcoreapp3.1\01 DayOfWeek UsingDateTime.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises05Class\01 DayOfWeek UsingDateTime\obj\Debug\netcoreapp3.1\01 DayOfWeek UsingDateTime.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\01 DayOfWeek UsingDateTime\obj\Debug\netcoreapp3.1\01 DayOfWeek UsingDateTime.pdb

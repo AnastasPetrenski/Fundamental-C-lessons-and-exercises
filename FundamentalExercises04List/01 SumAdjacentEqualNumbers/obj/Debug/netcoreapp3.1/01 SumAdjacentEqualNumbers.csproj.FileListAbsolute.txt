@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercises04List\01 SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\01 SumAdjacentEqualNumbers.exe
+C:\Users\anastas\source\repos\FundamentalExercises04List\01 SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\01 SumAdjacentEqualNumbers.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\01 SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\01 SumAdjacentEqualNumbers.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\01 SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\01 SumAdjacentEqualNumbers.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\01 SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\01 SumAdjacentEqualNumbers.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\01 SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\01 SumAdjacentEqualNumbers.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\01 SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\01 SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\01 SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\01 SumAdjacentEqualNumbers.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises04List\01 SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\01 SumAdjacentEqualNumbers.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\01 SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\01 SumAdjacentEqualNumbers.pdb

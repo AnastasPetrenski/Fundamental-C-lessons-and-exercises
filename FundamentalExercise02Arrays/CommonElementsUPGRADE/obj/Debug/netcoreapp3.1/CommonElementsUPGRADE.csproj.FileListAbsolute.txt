@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\CommonElementsUPGRADE\bin\Debug\netcoreapp3.1\CommonElementsUPGRADE.exe
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\CommonElementsUPGRADE\bin\Debug\netcoreapp3.1\CommonElementsUPGRADE.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\CommonElementsUPGRADE\bin\Debug\netcoreapp3.1\CommonElementsUPGRADE.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\CommonElementsUPGRADE\bin\Debug\netcoreapp3.1\CommonElementsUPGRADE.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\CommonElementsUPGRADE\bin\Debug\netcoreapp3.1\CommonElementsUPGRADE.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\CommonElementsUPGRADE\bin\Debug\netcoreapp3.1\CommonElementsUPGRADE.pdb
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\CommonElementsUPGRADE\obj\Debug\netcoreapp3.1\CommonElementsUPGRADE.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\CommonElementsUPGRADE\obj\Debug\netcoreapp3.1\CommonElementsUPGRADE.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\CommonElementsUPGRADE\obj\Debug\netcoreapp3.1\CommonElementsUPGRADE.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\CommonElementsUPGRADE\obj\Debug\netcoreapp3.1\CommonElementsUPGRADE.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\CommonElementsUPGRADE\obj\Debug\netcoreapp3.1\CommonElementsUPGRADE.pdb

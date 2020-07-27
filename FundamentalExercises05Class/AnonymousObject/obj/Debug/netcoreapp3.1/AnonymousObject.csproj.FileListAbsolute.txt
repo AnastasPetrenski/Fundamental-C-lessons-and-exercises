@@ -1,0 +1,4 @@
+C:\Users\anastas\source\repos\FundamentalExercises05Class\AnonymousObject\bin\Debug\netcoreapp3.1\AnonymousObject.exe
+C:\Users\anastas\source\repos\FundamentalExercises05Class\AnonymousObject\obj\Debug\netcoreapp3.1\AnonymousObject.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\AnonymousObject\obj\Debug\netcoreapp3.1\AnonymousObject.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\AnonymousObject\obj\Debug\netcoreapp3.1\AnonymousObject.AssemblyInfo.cs

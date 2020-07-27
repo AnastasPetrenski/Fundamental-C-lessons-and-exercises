@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\ReversArrayString\bin\Debug\netcoreapp3.1\ReversArrayString.exe
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\ReversArrayString\bin\Debug\netcoreapp3.1\ReversArrayString.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\ReversArrayString\bin\Debug\netcoreapp3.1\ReversArrayString.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\ReversArrayString\bin\Debug\netcoreapp3.1\ReversArrayString.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\ReversArrayString\bin\Debug\netcoreapp3.1\ReversArrayString.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\ReversArrayString\bin\Debug\netcoreapp3.1\ReversArrayString.pdb
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\ReversArrayString\obj\Debug\netcoreapp3.1\ReversArrayString.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\ReversArrayString\obj\Debug\netcoreapp3.1\ReversArrayString.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\ReversArrayString\obj\Debug\netcoreapp3.1\ReversArrayString.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\ReversArrayString\obj\Debug\netcoreapp3.1\ReversArrayString.pdb

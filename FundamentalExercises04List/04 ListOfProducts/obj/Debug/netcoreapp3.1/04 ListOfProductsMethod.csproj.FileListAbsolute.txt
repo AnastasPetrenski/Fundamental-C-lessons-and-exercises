@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises04List\04 ListOfProducts\bin\Debug\netcoreapp3.1\04 ListOfProductsMethod.exe
+C:\Users\anastas\source\repos\FundamentalExercises04List\04 ListOfProducts\bin\Debug\netcoreapp3.1\04 ListOfProductsMethod.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\04 ListOfProducts\bin\Debug\netcoreapp3.1\04 ListOfProductsMethod.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\04 ListOfProducts\bin\Debug\netcoreapp3.1\04 ListOfProductsMethod.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\04 ListOfProducts\bin\Debug\netcoreapp3.1\04 ListOfProductsMethod.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\04 ListOfProducts\bin\Debug\netcoreapp3.1\04 ListOfProductsMethod.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\04 ListOfProducts\obj\Debug\netcoreapp3.1\04 ListOfProductsMethod.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\04 ListOfProducts\obj\Debug\netcoreapp3.1\04 ListOfProductsMethod.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises04List\04 ListOfProducts\obj\Debug\netcoreapp3.1\04 ListOfProductsMethod.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\04 ListOfProducts\obj\Debug\netcoreapp3.1\04 ListOfProductsMethod.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\04 ListOfProducts\obj\Debug\netcoreapp3.1\04 ListOfProductsMethod.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\Тест\bin\Debug\netcoreapp3.1\Тест.exe
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\Тест\bin\Debug\netcoreapp3.1\Тест.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\Тест\bin\Debug\netcoreapp3.1\Тест.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\Тест\bin\Debug\netcoreapp3.1\Тест.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\Тест\bin\Debug\netcoreapp3.1\Тест.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\Тест\bin\Debug\netcoreapp3.1\Тест.pdb
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\Тест\obj\Debug\netcoreapp3.1\Тест.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\Тест\obj\Debug\netcoreapp3.1\Тест.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\Тест\obj\Debug\netcoreapp3.1\Тест.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\Тест\obj\Debug\netcoreapp3.1\Тест.pdb
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\Тест\obj\Debug\netcoreapp3.1\Тест.csprojAssemblyReference.cache

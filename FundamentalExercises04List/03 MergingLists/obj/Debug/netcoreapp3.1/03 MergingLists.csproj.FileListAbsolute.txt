@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercises04List\03 MergingLists\bin\Debug\netcoreapp3.1\03 MergingLists.exe
+C:\Users\anastas\source\repos\FundamentalExercises04List\03 MergingLists\bin\Debug\netcoreapp3.1\03 MergingLists.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\03 MergingLists\bin\Debug\netcoreapp3.1\03 MergingLists.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\03 MergingLists\bin\Debug\netcoreapp3.1\03 MergingLists.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\03 MergingLists\bin\Debug\netcoreapp3.1\03 MergingLists.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\03 MergingLists\bin\Debug\netcoreapp3.1\03 MergingLists.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\03 MergingLists\obj\Debug\netcoreapp3.1\03 MergingLists.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\03 MergingLists\obj\Debug\netcoreapp3.1\03 MergingLists.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises04List\03 MergingLists\obj\Debug\netcoreapp3.1\03 MergingLists.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\03 MergingLists\obj\Debug\netcoreapp3.1\03 MergingLists.pdb

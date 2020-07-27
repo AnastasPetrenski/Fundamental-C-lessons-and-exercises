@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises04List\22 DrumSet\bin\Debug\netcoreapp3.1\22 DrumSet.exe
+C:\Users\anastas\source\repos\FundamentalExercises04List\22 DrumSet\bin\Debug\netcoreapp3.1\22 DrumSet.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\22 DrumSet\bin\Debug\netcoreapp3.1\22 DrumSet.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\22 DrumSet\bin\Debug\netcoreapp3.1\22 DrumSet.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\22 DrumSet\bin\Debug\netcoreapp3.1\22 DrumSet.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\22 DrumSet\bin\Debug\netcoreapp3.1\22 DrumSet.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\22 DrumSet\obj\Debug\netcoreapp3.1\22 DrumSet.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\22 DrumSet\obj\Debug\netcoreapp3.1\22 DrumSet.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\22 DrumSet\obj\Debug\netcoreapp3.1\22 DrumSet.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises04List\22 DrumSet\obj\Debug\netcoreapp3.1\22 DrumSet.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\22 DrumSet\obj\Debug\netcoreapp3.1\22 DrumSet.pdb

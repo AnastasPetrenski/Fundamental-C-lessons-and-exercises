@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.exe
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.pdb
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.pdb

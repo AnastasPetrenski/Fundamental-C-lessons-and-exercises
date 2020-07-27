@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercises04List\13 CardsGame\bin\Debug\netcoreapp3.1\13 CardsGame.exe
+C:\Users\anastas\source\repos\FundamentalExercises04List\13 CardsGame\bin\Debug\netcoreapp3.1\13 CardsGame.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\13 CardsGame\bin\Debug\netcoreapp3.1\13 CardsGame.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\13 CardsGame\bin\Debug\netcoreapp3.1\13 CardsGame.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\13 CardsGame\bin\Debug\netcoreapp3.1\13 CardsGame.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\13 CardsGame\bin\Debug\netcoreapp3.1\13 CardsGame.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\13 CardsGame\obj\Debug\netcoreapp3.1\13 CardsGame.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\13 CardsGame\obj\Debug\netcoreapp3.1\13 CardsGame.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises04List\13 CardsGame\obj\Debug\netcoreapp3.1\13 CardsGame.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\13 CardsGame\obj\Debug\netcoreapp3.1\13 CardsGame.pdb

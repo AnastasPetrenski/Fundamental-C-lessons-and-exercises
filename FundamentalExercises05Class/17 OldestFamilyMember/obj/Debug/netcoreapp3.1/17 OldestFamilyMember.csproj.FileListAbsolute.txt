@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises05Class\17 OldestFamilyMember\bin\Debug\netcoreapp3.1\17 OldestFamilyMember.exe
+C:\Users\anastas\source\repos\FundamentalExercises05Class\17 OldestFamilyMember\bin\Debug\netcoreapp3.1\17 OldestFamilyMember.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\17 OldestFamilyMember\bin\Debug\netcoreapp3.1\17 OldestFamilyMember.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\17 OldestFamilyMember\bin\Debug\netcoreapp3.1\17 OldestFamilyMember.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\17 OldestFamilyMember\bin\Debug\netcoreapp3.1\17 OldestFamilyMember.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\17 OldestFamilyMember\bin\Debug\netcoreapp3.1\17 OldestFamilyMember.pdb
+C:\Users\anastas\source\repos\FundamentalExercises05Class\17 OldestFamilyMember\obj\Debug\netcoreapp3.1\17 OldestFamilyMember.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\17 OldestFamilyMember\obj\Debug\netcoreapp3.1\17 OldestFamilyMember.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\17 OldestFamilyMember\obj\Debug\netcoreapp3.1\17 OldestFamilyMember.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises05Class\17 OldestFamilyMember\obj\Debug\netcoreapp3.1\17 OldestFamilyMember.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\17 OldestFamilyMember\obj\Debug\netcoreapp3.1\17 OldestFamilyMember.pdb

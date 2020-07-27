@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\09 OrdersResolvingClass\bin\Debug\netcoreapp3.1\09 OrdersResolvingClass.exe
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\09 OrdersResolvingClass\bin\Debug\netcoreapp3.1\09 OrdersResolvingClass.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\09 OrdersResolvingClass\bin\Debug\netcoreapp3.1\09 OrdersResolvingClass.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\09 OrdersResolvingClass\bin\Debug\netcoreapp3.1\09 OrdersResolvingClass.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\09 OrdersResolvingClass\bin\Debug\netcoreapp3.1\09 OrdersResolvingClass.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\09 OrdersResolvingClass\bin\Debug\netcoreapp3.1\09 OrdersResolvingClass.pdb
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\09 OrdersResolvingClass\obj\Debug\netcoreapp3.1\09 OrdersResolvingClass.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\09 OrdersResolvingClass\obj\Debug\netcoreapp3.1\09 OrdersResolvingClass.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\09 OrdersResolvingClass\obj\Debug\netcoreapp3.1\09 OrdersResolvingClass.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\09 OrdersResolvingClass\obj\Debug\netcoreapp3.1\09 OrdersResolvingClass.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\09 OrdersResolvingClass\obj\Debug\netcoreapp3.1\09 OrdersResolvingClass.pdb

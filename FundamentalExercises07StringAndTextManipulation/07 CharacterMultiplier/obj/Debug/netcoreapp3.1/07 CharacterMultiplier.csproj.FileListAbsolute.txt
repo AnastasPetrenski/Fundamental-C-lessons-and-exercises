@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\07 CharacterMultiplier\bin\Debug\netcoreapp3.1\07 CharacterMultiplier.exe
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\07 CharacterMultiplier\bin\Debug\netcoreapp3.1\07 CharacterMultiplier.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\07 CharacterMultiplier\bin\Debug\netcoreapp3.1\07 CharacterMultiplier.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\07 CharacterMultiplier\bin\Debug\netcoreapp3.1\07 CharacterMultiplier.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\07 CharacterMultiplier\bin\Debug\netcoreapp3.1\07 CharacterMultiplier.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\07 CharacterMultiplier\bin\Debug\netcoreapp3.1\07 CharacterMultiplier.pdb
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\07 CharacterMultiplier\obj\Debug\netcoreapp3.1\07 CharacterMultiplier.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\07 CharacterMultiplier\obj\Debug\netcoreapp3.1\07 CharacterMultiplier.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\07 CharacterMultiplier\obj\Debug\netcoreapp3.1\07 CharacterMultiplier.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\07 CharacterMultiplier\obj\Debug\netcoreapp3.1\07 CharacterMultiplier.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\07 CharacterMultiplier\obj\Debug\netcoreapp3.1\07 CharacterMultiplier.pdb

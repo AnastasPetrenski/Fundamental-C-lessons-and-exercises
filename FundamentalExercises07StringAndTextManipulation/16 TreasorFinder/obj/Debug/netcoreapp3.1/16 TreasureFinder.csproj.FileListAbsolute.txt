@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\16 TreasorFinder\bin\Debug\netcoreapp3.1\16 TreasureFinder.exe
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\16 TreasorFinder\bin\Debug\netcoreapp3.1\16 TreasureFinder.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\16 TreasorFinder\bin\Debug\netcoreapp3.1\16 TreasureFinder.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\16 TreasorFinder\bin\Debug\netcoreapp3.1\16 TreasureFinder.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\16 TreasorFinder\bin\Debug\netcoreapp3.1\16 TreasureFinder.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\16 TreasorFinder\bin\Debug\netcoreapp3.1\16 TreasureFinder.pdb
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\16 TreasorFinder\obj\Debug\netcoreapp3.1\16 TreasureFinder.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\16 TreasorFinder\obj\Debug\netcoreapp3.1\16 TreasureFinder.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\16 TreasorFinder\obj\Debug\netcoreapp3.1\16 TreasureFinder.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\16 TreasorFinder\obj\Debug\netcoreapp3.1\16 TreasureFinder.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\16 TreasorFinder\obj\Debug\netcoreapp3.1\16 TreasureFinder.pdb

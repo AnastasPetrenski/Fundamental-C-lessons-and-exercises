@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises05Class\08 Articles\bin\Debug\netcoreapp3.1\08 Articles.exe
+C:\Users\anastas\source\repos\FundamentalExercises05Class\08 Articles\bin\Debug\netcoreapp3.1\08 Articles.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\08 Articles\bin\Debug\netcoreapp3.1\08 Articles.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\08 Articles\bin\Debug\netcoreapp3.1\08 Articles.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\08 Articles\bin\Debug\netcoreapp3.1\08 Articles.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\08 Articles\bin\Debug\netcoreapp3.1\08 Articles.pdb
+C:\Users\anastas\source\repos\FundamentalExercises05Class\08 Articles\obj\Debug\netcoreapp3.1\08 Articles.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\08 Articles\obj\Debug\netcoreapp3.1\08 Articles.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises05Class\08 Articles\obj\Debug\netcoreapp3.1\08 Articles.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\08 Articles\obj\Debug\netcoreapp3.1\08 Articles.pdb
+C:\Users\anastas\source\repos\FundamentalExercises05Class\08 Articles\obj\Debug\netcoreapp3.1\08 Articles.csprojAssemblyReference.cache

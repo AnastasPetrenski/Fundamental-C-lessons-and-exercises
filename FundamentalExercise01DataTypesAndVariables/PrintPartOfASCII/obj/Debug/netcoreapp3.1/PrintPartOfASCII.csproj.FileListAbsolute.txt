@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\PrintPartOfASCII\bin\Debug\netcoreapp3.1\PrintPartOfASCII.exe
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\PrintPartOfASCII\bin\Debug\netcoreapp3.1\PrintPartOfASCII.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\PrintPartOfASCII\bin\Debug\netcoreapp3.1\PrintPartOfASCII.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\PrintPartOfASCII\bin\Debug\netcoreapp3.1\PrintPartOfASCII.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\PrintPartOfASCII\bin\Debug\netcoreapp3.1\PrintPartOfASCII.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\PrintPartOfASCII\bin\Debug\netcoreapp3.1\PrintPartOfASCII.pdb
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\PrintPartOfASCII\obj\Debug\netcoreapp3.1\PrintPartOfASCII.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\PrintPartOfASCII\obj\Debug\netcoreapp3.1\PrintPartOfASCII.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\PrintPartOfASCII\obj\Debug\netcoreapp3.1\PrintPartOfASCII.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\PrintPartOfASCII\obj\Debug\netcoreapp3.1\PrintPartOfASCII.pdb

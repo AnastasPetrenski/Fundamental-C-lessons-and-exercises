@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "18 MobbaChallenger/1.0.0": {
+        "runtime": {
+          "18 MobbaChallenger.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "18 MobbaChallenger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

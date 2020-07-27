@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises05Class\ClassProperties\bin\Debug\netcoreapp3.1\ClassProperties.exe
+C:\Users\anastas\source\repos\FundamentalExercises05Class\ClassProperties\bin\Debug\netcoreapp3.1\ClassProperties.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\ClassProperties\bin\Debug\netcoreapp3.1\ClassProperties.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\ClassProperties\bin\Debug\netcoreapp3.1\ClassProperties.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\ClassProperties\bin\Debug\netcoreapp3.1\ClassProperties.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\ClassProperties\bin\Debug\netcoreapp3.1\ClassProperties.pdb
+C:\Users\anastas\source\repos\FundamentalExercises05Class\ClassProperties\obj\Debug\netcoreapp3.1\ClassProperties.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\ClassProperties\obj\Debug\netcoreapp3.1\ClassProperties.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises05Class\ClassProperties\obj\Debug\netcoreapp3.1\ClassProperties.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\ClassProperties\obj\Debug\netcoreapp3.1\ClassProperties.pdb
+C:\Users\anastas\source\repos\FundamentalExercises05Class\ClassProperties\obj\Debug\netcoreapp3.1\ClassProperties.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercises04List\19 Messaging\bin\Debug\netcoreapp3.1\19 Messaging.exe
+C:\Users\anastas\source\repos\FundamentalExercises04List\19 Messaging\bin\Debug\netcoreapp3.1\19 Messaging.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\19 Messaging\bin\Debug\netcoreapp3.1\19 Messaging.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\19 Messaging\bin\Debug\netcoreapp3.1\19 Messaging.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\19 Messaging\bin\Debug\netcoreapp3.1\19 Messaging.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\19 Messaging\bin\Debug\netcoreapp3.1\19 Messaging.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\19 Messaging\obj\Debug\netcoreapp3.1\19 Messaging.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\19 Messaging\obj\Debug\netcoreapp3.1\19 Messaging.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises04List\19 Messaging\obj\Debug\netcoreapp3.1\19 Messaging.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\19 Messaging\obj\Debug\netcoreapp3.1\19 Messaging.pdb

@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises05Class\11 TeamWorkProject\bin\Debug\netcoreapp3.1\11 TeamWorkProject.exe
+C:\Users\anastas\source\repos\FundamentalExercises05Class\11 TeamWorkProject\bin\Debug\netcoreapp3.1\11 TeamWorkProject.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\11 TeamWorkProject\bin\Debug\netcoreapp3.1\11 TeamWorkProject.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\11 TeamWorkProject\bin\Debug\netcoreapp3.1\11 TeamWorkProject.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\11 TeamWorkProject\bin\Debug\netcoreapp3.1\11 TeamWorkProject.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\11 TeamWorkProject\bin\Debug\netcoreapp3.1\11 TeamWorkProject.pdb
+C:\Users\anastas\source\repos\FundamentalExercises05Class\11 TeamWorkProject\obj\Debug\netcoreapp3.1\11 TeamWorkProject.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\11 TeamWorkProject\obj\Debug\netcoreapp3.1\11 TeamWorkProject.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\11 TeamWorkProject\obj\Debug\netcoreapp3.1\11 TeamWorkProject.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises05Class\11 TeamWorkProject\obj\Debug\netcoreapp3.1\11 TeamWorkProject.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\11 TeamWorkProject\obj\Debug\netcoreapp3.1\11 TeamWorkProject.pdb

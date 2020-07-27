@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\02 OddOccurrences\bin\Debug\netcoreapp3.1\02 OddOccurrences.exe
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\02 OddOccurrences\bin\Debug\netcoreapp3.1\02 OddOccurrences.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\02 OddOccurrences\bin\Debug\netcoreapp3.1\02 OddOccurrences.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\02 OddOccurrences\bin\Debug\netcoreapp3.1\02 OddOccurrences.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\02 OddOccurrences\bin\Debug\netcoreapp3.1\02 OddOccurrences.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\02 OddOccurrences\bin\Debug\netcoreapp3.1\02 OddOccurrences.pdb
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\02 OddOccurrences\obj\Debug\netcoreapp3.1\02 OddOccurrences.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\02 OddOccurrences\obj\Debug\netcoreapp3.1\02 OddOccurrences.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\02 OddOccurrences\obj\Debug\netcoreapp3.1\02 OddOccurrences.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\02 OddOccurrences\obj\Debug\netcoreapp3.1\02 OddOccurrences.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\02 OddOccurrences\obj\Debug\netcoreapp3.1\02 OddOccurrences.pdb

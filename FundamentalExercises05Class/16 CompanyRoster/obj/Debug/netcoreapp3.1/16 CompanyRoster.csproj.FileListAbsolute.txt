@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises05Class\16 CompanyRoster\bin\Debug\netcoreapp3.1\16 CompanyRoster.exe
+C:\Users\anastas\source\repos\FundamentalExercises05Class\16 CompanyRoster\bin\Debug\netcoreapp3.1\16 CompanyRoster.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\16 CompanyRoster\bin\Debug\netcoreapp3.1\16 CompanyRoster.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\16 CompanyRoster\bin\Debug\netcoreapp3.1\16 CompanyRoster.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\16 CompanyRoster\bin\Debug\netcoreapp3.1\16 CompanyRoster.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\16 CompanyRoster\bin\Debug\netcoreapp3.1\16 CompanyRoster.pdb
+C:\Users\anastas\source\repos\FundamentalExercises05Class\16 CompanyRoster\obj\Debug\netcoreapp3.1\16 CompanyRoster.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\16 CompanyRoster\obj\Debug\netcoreapp3.1\16 CompanyRoster.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\16 CompanyRoster\obj\Debug\netcoreapp3.1\16 CompanyRoster.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises05Class\16 CompanyRoster\obj\Debug\netcoreapp3.1\16 CompanyRoster.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\16 CompanyRoster\obj\Debug\netcoreapp3.1\16 CompanyRoster.pdb

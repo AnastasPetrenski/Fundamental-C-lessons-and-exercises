@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercises04List\10 HouseParty\bin\Debug\netcoreapp3.1\10 HouseParty.exe
+C:\Users\anastas\source\repos\FundamentalExercises04List\10 HouseParty\bin\Debug\netcoreapp3.1\10 HouseParty.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\10 HouseParty\bin\Debug\netcoreapp3.1\10 HouseParty.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\10 HouseParty\bin\Debug\netcoreapp3.1\10 HouseParty.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\10 HouseParty\bin\Debug\netcoreapp3.1\10 HouseParty.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\10 HouseParty\bin\Debug\netcoreapp3.1\10 HouseParty.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\10 HouseParty\obj\Debug\netcoreapp3.1\10 HouseParty.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\10 HouseParty\obj\Debug\netcoreapp3.1\10 HouseParty.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises04List\10 HouseParty\obj\Debug\netcoreapp3.1\10 HouseParty.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\10 HouseParty\obj\Debug\netcoreapp3.1\10 HouseParty.pdb

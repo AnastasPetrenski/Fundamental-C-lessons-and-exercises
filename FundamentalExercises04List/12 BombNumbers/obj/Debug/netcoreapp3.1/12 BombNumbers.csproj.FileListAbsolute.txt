@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercises04List\12 BombNumbers\bin\Debug\netcoreapp3.1\12 BombNumbers.exe
+C:\Users\anastas\source\repos\FundamentalExercises04List\12 BombNumbers\bin\Debug\netcoreapp3.1\12 BombNumbers.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\12 BombNumbers\bin\Debug\netcoreapp3.1\12 BombNumbers.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\12 BombNumbers\bin\Debug\netcoreapp3.1\12 BombNumbers.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\12 BombNumbers\bin\Debug\netcoreapp3.1\12 BombNumbers.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\12 BombNumbers\bin\Debug\netcoreapp3.1\12 BombNumbers.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\12 BombNumbers\obj\Debug\netcoreapp3.1\12 BombNumbers.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\12 BombNumbers\obj\Debug\netcoreapp3.1\12 BombNumbers.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises04List\12 BombNumbers\obj\Debug\netcoreapp3.1\12 BombNumbers.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\12 BombNumbers\obj\Debug\netcoreapp3.1\12 BombNumbers.pdb

@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercises04List\06 ListManipulationBasic\bin\Debug\netcoreapp3.1\06 ListManipulationBasic.exe
+C:\Users\anastas\source\repos\FundamentalExercises04List\06 ListManipulationBasic\bin\Debug\netcoreapp3.1\06 ListManipulationBasic.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\06 ListManipulationBasic\bin\Debug\netcoreapp3.1\06 ListManipulationBasic.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\06 ListManipulationBasic\bin\Debug\netcoreapp3.1\06 ListManipulationBasic.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\06 ListManipulationBasic\bin\Debug\netcoreapp3.1\06 ListManipulationBasic.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\06 ListManipulationBasic\bin\Debug\netcoreapp3.1\06 ListManipulationBasic.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\06 ListManipulationBasic\obj\Debug\netcoreapp3.1\06 ListManipulationBasic.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\06 ListManipulationBasic\obj\Debug\netcoreapp3.1\06 ListManipulationBasic.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises04List\06 ListManipulationBasic\obj\Debug\netcoreapp3.1\06 ListManipulationBasic.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\06 ListManipulationBasic\obj\Debug\netcoreapp3.1\06 ListManipulationBasic.pdb

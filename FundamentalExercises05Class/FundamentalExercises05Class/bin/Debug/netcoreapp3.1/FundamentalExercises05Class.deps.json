@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FundamentalExercises05Class/1.0.0": {
+        "runtime": {
+          "FundamentalExercises05Class.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FundamentalExercises05Class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\01 MatchFullName\bin\Debug\netcoreapp3.1\01 MatchFullName.exe
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\01 MatchFullName\bin\Debug\netcoreapp3.1\01 MatchFullName.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\01 MatchFullName\bin\Debug\netcoreapp3.1\01 MatchFullName.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\01 MatchFullName\bin\Debug\netcoreapp3.1\01 MatchFullName.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\01 MatchFullName\bin\Debug\netcoreapp3.1\01 MatchFullName.dll
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\01 MatchFullName\bin\Debug\netcoreapp3.1\01 MatchFullName.pdb
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\01 MatchFullName\obj\Debug\netcoreapp3.1\01 MatchFullName.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\01 MatchFullName\obj\Debug\netcoreapp3.1\01 MatchFullName.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\01 MatchFullName\obj\Debug\netcoreapp3.1\01 MatchFullName.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\01 MatchFullName\obj\Debug\netcoreapp3.1\01 MatchFullName.dll
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\01 MatchFullName\obj\Debug\netcoreapp3.1\01 MatchFullName.pdb

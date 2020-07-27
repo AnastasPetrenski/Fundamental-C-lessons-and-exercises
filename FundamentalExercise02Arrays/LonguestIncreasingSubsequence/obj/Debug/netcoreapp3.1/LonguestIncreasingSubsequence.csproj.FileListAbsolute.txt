@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LonguestIncreasingSubsequence\bin\Debug\netcoreapp3.1\LonguestIncreasingSubsequence.exe
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LonguestIncreasingSubsequence\bin\Debug\netcoreapp3.1\LonguestIncreasingSubsequence.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LonguestIncreasingSubsequence\bin\Debug\netcoreapp3.1\LonguestIncreasingSubsequence.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LonguestIncreasingSubsequence\bin\Debug\netcoreapp3.1\LonguestIncreasingSubsequence.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LonguestIncreasingSubsequence\bin\Debug\netcoreapp3.1\LonguestIncreasingSubsequence.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LonguestIncreasingSubsequence\bin\Debug\netcoreapp3.1\LonguestIncreasingSubsequence.pdb
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LonguestIncreasingSubsequence\obj\Debug\netcoreapp3.1\LonguestIncreasingSubsequence.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LonguestIncreasingSubsequence\obj\Debug\netcoreapp3.1\LonguestIncreasingSubsequence.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LonguestIncreasingSubsequence\obj\Debug\netcoreapp3.1\LonguestIncreasingSubsequence.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LonguestIncreasingSubsequence\obj\Debug\netcoreapp3.1\LonguestIncreasingSubsequence.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LonguestIncreasingSubsequence\obj\Debug\netcoreapp3.1\LonguestIncreasingSubsequence.pdb

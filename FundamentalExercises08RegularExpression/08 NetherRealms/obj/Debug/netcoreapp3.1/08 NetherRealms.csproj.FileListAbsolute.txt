@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\08 NetherRealms\bin\Debug\netcoreapp3.1\08 NetherRealms.exe
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\08 NetherRealms\bin\Debug\netcoreapp3.1\08 NetherRealms.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\08 NetherRealms\bin\Debug\netcoreapp3.1\08 NetherRealms.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\08 NetherRealms\bin\Debug\netcoreapp3.1\08 NetherRealms.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\08 NetherRealms\bin\Debug\netcoreapp3.1\08 NetherRealms.dll
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\08 NetherRealms\bin\Debug\netcoreapp3.1\08 NetherRealms.pdb
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\08 NetherRealms\obj\Debug\netcoreapp3.1\08 NetherRealms.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\08 NetherRealms\obj\Debug\netcoreapp3.1\08 NetherRealms.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\08 NetherRealms\obj\Debug\netcoreapp3.1\08 NetherRealms.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\08 NetherRealms\obj\Debug\netcoreapp3.1\08 NetherRealms.dll
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\08 NetherRealms\obj\Debug\netcoreapp3.1\08 NetherRealms.pdb

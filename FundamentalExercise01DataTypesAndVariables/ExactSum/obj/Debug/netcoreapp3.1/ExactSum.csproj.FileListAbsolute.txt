@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ExactSum\bin\Debug\netcoreapp3.1\ExactSum.exe
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ExactSum\bin\Debug\netcoreapp3.1\ExactSum.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ExactSum\bin\Debug\netcoreapp3.1\ExactSum.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ExactSum\bin\Debug\netcoreapp3.1\ExactSum.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ExactSum\bin\Debug\netcoreapp3.1\ExactSum.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ExactSum\bin\Debug\netcoreapp3.1\ExactSum.pdb
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ExactSum\obj\Debug\netcoreapp3.1\ExactSum.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ExactSum\obj\Debug\netcoreapp3.1\ExactSum.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ExactSum\obj\Debug\netcoreapp3.1\ExactSum.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ExactSum\obj\Debug\netcoreapp3.1\ExactSum.pdb

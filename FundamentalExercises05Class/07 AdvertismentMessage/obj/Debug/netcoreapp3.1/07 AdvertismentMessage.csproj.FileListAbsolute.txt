@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises05Class\07 AdvertismentMessage\bin\Debug\netcoreapp3.1\07 AdvertismentMessage.exe
+C:\Users\anastas\source\repos\FundamentalExercises05Class\07 AdvertismentMessage\bin\Debug\netcoreapp3.1\07 AdvertismentMessage.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\07 AdvertismentMessage\bin\Debug\netcoreapp3.1\07 AdvertismentMessage.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\07 AdvertismentMessage\bin\Debug\netcoreapp3.1\07 AdvertismentMessage.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\07 AdvertismentMessage\bin\Debug\netcoreapp3.1\07 AdvertismentMessage.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\07 AdvertismentMessage\bin\Debug\netcoreapp3.1\07 AdvertismentMessage.pdb
+C:\Users\anastas\source\repos\FundamentalExercises05Class\07 AdvertismentMessage\obj\Debug\netcoreapp3.1\07 AdvertismentMessage.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\07 AdvertismentMessage\obj\Debug\netcoreapp3.1\07 AdvertismentMessage.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\07 AdvertismentMessage\obj\Debug\netcoreapp3.1\07 AdvertismentMessage.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises05Class\07 AdvertismentMessage\obj\Debug\netcoreapp3.1\07 AdvertismentMessage.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\07 AdvertismentMessage\obj\Debug\netcoreapp3.1\07 AdvertismentMessage.pdb

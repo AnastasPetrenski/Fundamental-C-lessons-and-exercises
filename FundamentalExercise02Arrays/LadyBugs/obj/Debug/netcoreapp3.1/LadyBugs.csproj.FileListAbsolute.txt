@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LadyBugs\bin\Debug\netcoreapp3.1\LadyBugs.exe
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LadyBugs\bin\Debug\netcoreapp3.1\LadyBugs.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LadyBugs\bin\Debug\netcoreapp3.1\LadyBugs.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LadyBugs\bin\Debug\netcoreapp3.1\LadyBugs.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LadyBugs\bin\Debug\netcoreapp3.1\LadyBugs.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LadyBugs\bin\Debug\netcoreapp3.1\LadyBugs.pdb
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LadyBugs\obj\Debug\netcoreapp3.1\LadyBugs.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LadyBugs\obj\Debug\netcoreapp3.1\LadyBugs.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LadyBugs\obj\Debug\netcoreapp3.1\LadyBugs.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LadyBugs\obj\Debug\netcoreapp3.1\LadyBugs.pdb
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LadyBugs\obj\Debug\netcoreapp3.1\LadyBugs.csprojAssemblyReference.cache

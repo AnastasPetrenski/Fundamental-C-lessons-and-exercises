@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\04 TextFilter\bin\Debug\netcoreapp3.1\04 TextFilter.exe
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\04 TextFilter\bin\Debug\netcoreapp3.1\04 TextFilter.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\04 TextFilter\bin\Debug\netcoreapp3.1\04 TextFilter.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\04 TextFilter\bin\Debug\netcoreapp3.1\04 TextFilter.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\04 TextFilter\bin\Debug\netcoreapp3.1\04 TextFilter.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\04 TextFilter\bin\Debug\netcoreapp3.1\04 TextFilter.pdb
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\04 TextFilter\obj\Debug\netcoreapp3.1\04 TextFilter.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\04 TextFilter\obj\Debug\netcoreapp3.1\04 TextFilter.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\04 TextFilter\obj\Debug\netcoreapp3.1\04 TextFilter.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\04 TextFilter\obj\Debug\netcoreapp3.1\04 TextFilter.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\04 TextFilter\obj\Debug\netcoreapp3.1\04 TextFilter.pdb

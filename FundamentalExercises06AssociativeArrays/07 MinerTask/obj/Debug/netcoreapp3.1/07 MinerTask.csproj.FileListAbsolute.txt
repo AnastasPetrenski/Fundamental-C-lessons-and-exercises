@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\07 MinerTask\bin\Debug\netcoreapp3.1\07 MinerTask.exe
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\07 MinerTask\obj\Debug\netcoreapp3.1\07 MinerTask.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\07 MinerTask\obj\Debug\netcoreapp3.1\07 MinerTask.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\07 MinerTask\bin\Debug\netcoreapp3.1\07 MinerTask.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\07 MinerTask\bin\Debug\netcoreapp3.1\07 MinerTask.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\07 MinerTask\bin\Debug\netcoreapp3.1\07 MinerTask.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\07 MinerTask\bin\Debug\netcoreapp3.1\07 MinerTask.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\07 MinerTask\bin\Debug\netcoreapp3.1\07 MinerTask.pdb
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\07 MinerTask\obj\Debug\netcoreapp3.1\07 MinerTask.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\07 MinerTask\obj\Debug\netcoreapp3.1\07 MinerTask.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\07 MinerTask\obj\Debug\netcoreapp3.1\07 MinerTask.pdb

@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\RoundingNumbers\bin\Debug\netcoreapp3.1\RoundingNumbers.exe
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\RoundingNumbers\bin\Debug\netcoreapp3.1\RoundingNumbers.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\RoundingNumbers\bin\Debug\netcoreapp3.1\RoundingNumbers.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\RoundingNumbers\bin\Debug\netcoreapp3.1\RoundingNumbers.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\RoundingNumbers\bin\Debug\netcoreapp3.1\RoundingNumbers.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\RoundingNumbers\bin\Debug\netcoreapp3.1\RoundingNumbers.pdb
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\RoundingNumbers\obj\Debug\netcoreapp3.1\RoundingNumbers.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\RoundingNumbers\obj\Debug\netcoreapp3.1\RoundingNumbers.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\RoundingNumbers\obj\Debug\netcoreapp3.1\RoundingNumbers.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\RoundingNumbers\obj\Debug\netcoreapp3.1\RoundingNumbers.pdb
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\RoundingNumbers\obj\Debug\netcoreapp3.1\RoundingNumbers.csprojAssemblyReference.cache

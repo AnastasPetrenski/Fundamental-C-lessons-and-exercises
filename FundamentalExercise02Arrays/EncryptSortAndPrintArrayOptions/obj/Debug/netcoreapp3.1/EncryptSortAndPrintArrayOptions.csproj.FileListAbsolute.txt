@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\EncryptSortAndPrintArrayOptions\bin\Debug\netcoreapp3.1\EncryptSortAndPrintArrayOptions.exe
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\EncryptSortAndPrintArrayOptions\bin\Debug\netcoreapp3.1\EncryptSortAndPrintArrayOptions.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\EncryptSortAndPrintArrayOptions\bin\Debug\netcoreapp3.1\EncryptSortAndPrintArrayOptions.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\EncryptSortAndPrintArrayOptions\bin\Debug\netcoreapp3.1\EncryptSortAndPrintArrayOptions.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\EncryptSortAndPrintArrayOptions\bin\Debug\netcoreapp3.1\EncryptSortAndPrintArrayOptions.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\EncryptSortAndPrintArrayOptions\bin\Debug\netcoreapp3.1\EncryptSortAndPrintArrayOptions.pdb
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\EncryptSortAndPrintArrayOptions\obj\Debug\netcoreapp3.1\EncryptSortAndPrintArrayOptions.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\EncryptSortAndPrintArrayOptions\obj\Debug\netcoreapp3.1\EncryptSortAndPrintArrayOptions.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\EncryptSortAndPrintArrayOptions\obj\Debug\netcoreapp3.1\EncryptSortAndPrintArrayOptions.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\EncryptSortAndPrintArrayOptions\obj\Debug\netcoreapp3.1\EncryptSortAndPrintArrayOptions.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\EncryptSortAndPrintArrayOptions\obj\Debug\netcoreapp3.1\EncryptSortAndPrintArrayOptions.pdb

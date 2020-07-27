@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\05 DigitsLetterOther\bin\Debug\netcoreapp3.1\05 DigitsLetterOther.exe
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\05 DigitsLetterOther\bin\Debug\netcoreapp3.1\05 DigitsLetterOther.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\05 DigitsLetterOther\bin\Debug\netcoreapp3.1\05 DigitsLetterOther.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\05 DigitsLetterOther\bin\Debug\netcoreapp3.1\05 DigitsLetterOther.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\05 DigitsLetterOther\bin\Debug\netcoreapp3.1\05 DigitsLetterOther.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\05 DigitsLetterOther\bin\Debug\netcoreapp3.1\05 DigitsLetterOther.pdb
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\05 DigitsLetterOther\obj\Debug\netcoreapp3.1\05 DigitsLetterOther.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\05 DigitsLetterOther\obj\Debug\netcoreapp3.1\05 DigitsLetterOther.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\05 DigitsLetterOther\obj\Debug\netcoreapp3.1\05 DigitsLetterOther.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\05 DigitsLetterOther\obj\Debug\netcoreapp3.1\05 DigitsLetterOther.pdb

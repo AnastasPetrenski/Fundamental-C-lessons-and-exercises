@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises04List\FundamentalExercises04List\bin\Debug\netcoreapp3.1\FundamentalExercises04List.exe
+C:\Users\anastas\source\repos\FundamentalExercises04List\FundamentalExercises04List\bin\Debug\netcoreapp3.1\FundamentalExercises04List.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\FundamentalExercises04List\bin\Debug\netcoreapp3.1\FundamentalExercises04List.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\FundamentalExercises04List\bin\Debug\netcoreapp3.1\FundamentalExercises04List.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\FundamentalExercises04List\bin\Debug\netcoreapp3.1\FundamentalExercises04List.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\FundamentalExercises04List\bin\Debug\netcoreapp3.1\FundamentalExercises04List.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\FundamentalExercises04List\obj\Debug\netcoreapp3.1\FundamentalExercises04List.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\FundamentalExercises04List\obj\Debug\netcoreapp3.1\FundamentalExercises04List.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\FundamentalExercises04List\obj\Debug\netcoreapp3.1\FundamentalExercises04List.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises04List\FundamentalExercises04List\obj\Debug\netcoreapp3.1\FundamentalExercises04List.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\FundamentalExercises04List\obj\Debug\netcoreapp3.1\FundamentalExercises04List.pdb

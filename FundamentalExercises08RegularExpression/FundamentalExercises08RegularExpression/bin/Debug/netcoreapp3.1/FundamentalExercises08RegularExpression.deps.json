@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FundamentalExercises08RegularExpression/1.0.0": {
+        "runtime": {
+          "FundamentalExercises08RegularExpression.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FundamentalExercises08RegularExpression/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

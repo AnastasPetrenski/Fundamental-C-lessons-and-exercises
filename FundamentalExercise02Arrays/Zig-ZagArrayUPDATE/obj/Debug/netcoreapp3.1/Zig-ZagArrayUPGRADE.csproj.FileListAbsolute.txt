@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\Zig-ZagArrayUPDATE\obj\Debug\netcoreapp3.1\Zig-ZagArrayUPGRADE.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\Zig-ZagArrayUPDATE\obj\Debug\netcoreapp3.1\Zig-ZagArrayUPGRADE.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\Zig-ZagArrayUPDATE\bin\Debug\netcoreapp3.1\Zig-ZagArrayUPGRADE.exe
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\Zig-ZagArrayUPDATE\bin\Debug\netcoreapp3.1\Zig-ZagArrayUPGRADE.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\Zig-ZagArrayUPDATE\bin\Debug\netcoreapp3.1\Zig-ZagArrayUPGRADE.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\Zig-ZagArrayUPDATE\bin\Debug\netcoreapp3.1\Zig-ZagArrayUPGRADE.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\Zig-ZagArrayUPDATE\bin\Debug\netcoreapp3.1\Zig-ZagArrayUPGRADE.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\Zig-ZagArrayUPDATE\bin\Debug\netcoreapp3.1\Zig-ZagArrayUPGRADE.pdb
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\Zig-ZagArrayUPDATE\obj\Debug\netcoreapp3.1\Zig-ZagArrayUPGRADE.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\Zig-ZagArrayUPDATE\obj\Debug\netcoreapp3.1\Zig-ZagArrayUPGRADE.pdb

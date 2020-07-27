@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercises04List\17 PockemonDontGo\bin\Debug\netcoreapp3.1\17 PockemonDontGo.exe
+C:\Users\anastas\source\repos\FundamentalExercises04List\17 PockemonDontGo\bin\Debug\netcoreapp3.1\17 PockemonDontGo.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\17 PockemonDontGo\bin\Debug\netcoreapp3.1\17 PockemonDontGo.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\17 PockemonDontGo\bin\Debug\netcoreapp3.1\17 PockemonDontGo.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\17 PockemonDontGo\bin\Debug\netcoreapp3.1\17 PockemonDontGo.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\17 PockemonDontGo\bin\Debug\netcoreapp3.1\17 PockemonDontGo.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\17 PockemonDontGo\obj\Debug\netcoreapp3.1\17 PockemonDontGo.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\17 PockemonDontGo\obj\Debug\netcoreapp3.1\17 PockemonDontGo.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises04List\17 PockemonDontGo\obj\Debug\netcoreapp3.1\17 PockemonDontGo.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\17 PockemonDontGo\obj\Debug\netcoreapp3.1\17 PockemonDontGo.pdb

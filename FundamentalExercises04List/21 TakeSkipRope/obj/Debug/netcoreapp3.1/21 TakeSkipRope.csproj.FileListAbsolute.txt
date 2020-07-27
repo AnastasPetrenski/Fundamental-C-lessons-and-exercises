@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises04List\21 TakeSkipRope\bin\Debug\netcoreapp3.1\21 TakeSkipRope.exe
+C:\Users\anastas\source\repos\FundamentalExercises04List\21 TakeSkipRope\bin\Debug\netcoreapp3.1\21 TakeSkipRope.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\21 TakeSkipRope\bin\Debug\netcoreapp3.1\21 TakeSkipRope.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\21 TakeSkipRope\bin\Debug\netcoreapp3.1\21 TakeSkipRope.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\21 TakeSkipRope\bin\Debug\netcoreapp3.1\21 TakeSkipRope.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\21 TakeSkipRope\bin\Debug\netcoreapp3.1\21 TakeSkipRope.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\21 TakeSkipRope\obj\Debug\netcoreapp3.1\21 TakeSkipRope.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\21 TakeSkipRope\obj\Debug\netcoreapp3.1\21 TakeSkipRope.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises04List\21 TakeSkipRope\obj\Debug\netcoreapp3.1\21 TakeSkipRope.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\21 TakeSkipRope\obj\Debug\netcoreapp3.1\21 TakeSkipRope.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\21 TakeSkipRope\obj\Debug\netcoreapp3.1\21 TakeSkipRope.csprojAssemblyReference.cache

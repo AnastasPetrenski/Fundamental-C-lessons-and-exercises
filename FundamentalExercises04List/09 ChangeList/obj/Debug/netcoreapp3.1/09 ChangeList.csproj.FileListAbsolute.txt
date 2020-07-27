@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercises04List\09 ChangeList\bin\Debug\netcoreapp3.1\09 ChangeList.exe
+C:\Users\anastas\source\repos\FundamentalExercises04List\09 ChangeList\bin\Debug\netcoreapp3.1\09 ChangeList.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\09 ChangeList\bin\Debug\netcoreapp3.1\09 ChangeList.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\09 ChangeList\bin\Debug\netcoreapp3.1\09 ChangeList.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\09 ChangeList\bin\Debug\netcoreapp3.1\09 ChangeList.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\09 ChangeList\bin\Debug\netcoreapp3.1\09 ChangeList.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\09 ChangeList\obj\Debug\netcoreapp3.1\09 ChangeList.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\09 ChangeList\obj\Debug\netcoreapp3.1\09 ChangeList.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises04List\09 ChangeList\obj\Debug\netcoreapp3.1\09 ChangeList.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\09 ChangeList\obj\Debug\netcoreapp3.1\09 ChangeList.pdb

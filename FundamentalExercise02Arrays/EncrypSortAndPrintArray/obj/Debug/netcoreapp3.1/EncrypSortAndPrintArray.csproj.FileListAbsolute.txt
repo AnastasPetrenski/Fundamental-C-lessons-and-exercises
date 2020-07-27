@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\EncrypSortAndPrintArray\bin\Debug\netcoreapp3.1\EncrypSortAndPrintArray.exe
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\EncrypSortAndPrintArray\bin\Debug\netcoreapp3.1\EncrypSortAndPrintArray.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\EncrypSortAndPrintArray\bin\Debug\netcoreapp3.1\EncrypSortAndPrintArray.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\EncrypSortAndPrintArray\bin\Debug\netcoreapp3.1\EncrypSortAndPrintArray.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\EncrypSortAndPrintArray\bin\Debug\netcoreapp3.1\EncrypSortAndPrintArray.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\EncrypSortAndPrintArray\bin\Debug\netcoreapp3.1\EncrypSortAndPrintArray.pdb
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\EncrypSortAndPrintArray\obj\Debug\netcoreapp3.1\EncrypSortAndPrintArray.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\EncrypSortAndPrintArray\obj\Debug\netcoreapp3.1\EncrypSortAndPrintArray.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\EncrypSortAndPrintArray\obj\Debug\netcoreapp3.1\EncrypSortAndPrintArray.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\EncrypSortAndPrintArray\obj\Debug\netcoreapp3.1\EncrypSortAndPrintArray.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\EncrypSortAndPrintArray\obj\Debug\netcoreapp3.1\EncrypSortAndPrintArray.pdb

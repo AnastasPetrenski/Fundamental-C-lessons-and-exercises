@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\10 MultiplyBigNumberSecond\bin\Debug\netcoreapp3.1\10 MultiplyBigNumberSecond.exe
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\10 MultiplyBigNumberSecond\bin\Debug\netcoreapp3.1\10 MultiplyBigNumberSecond.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\10 MultiplyBigNumberSecond\bin\Debug\netcoreapp3.1\10 MultiplyBigNumberSecond.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\10 MultiplyBigNumberSecond\bin\Debug\netcoreapp3.1\10 MultiplyBigNumberSecond.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\10 MultiplyBigNumberSecond\bin\Debug\netcoreapp3.1\10 MultiplyBigNumberSecond.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\10 MultiplyBigNumberSecond\bin\Debug\netcoreapp3.1\10 MultiplyBigNumberSecond.pdb
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\10 MultiplyBigNumberSecond\obj\Debug\netcoreapp3.1\10 MultiplyBigNumberSecond.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\10 MultiplyBigNumberSecond\obj\Debug\netcoreapp3.1\10 MultiplyBigNumberSecond.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\10 MultiplyBigNumberSecond\obj\Debug\netcoreapp3.1\10 MultiplyBigNumberSecond.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\10 MultiplyBigNumberSecond\obj\Debug\netcoreapp3.1\10 MultiplyBigNumberSecond.pdb

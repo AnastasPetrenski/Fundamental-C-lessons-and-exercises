@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\04 LargestThreeNumbers\bin\Debug\netcoreapp3.1\04 LargestThreeNumbers.exe
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\04 LargestThreeNumbers\bin\Debug\netcoreapp3.1\04 LargestThreeNumbers.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\04 LargestThreeNumbers\bin\Debug\netcoreapp3.1\04 LargestThreeNumbers.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\04 LargestThreeNumbers\bin\Debug\netcoreapp3.1\04 LargestThreeNumbers.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\04 LargestThreeNumbers\bin\Debug\netcoreapp3.1\04 LargestThreeNumbers.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\04 LargestThreeNumbers\bin\Debug\netcoreapp3.1\04 LargestThreeNumbers.pdb
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\04 LargestThreeNumbers\obj\Debug\netcoreapp3.1\04 LargestThreeNumbers.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\04 LargestThreeNumbers\obj\Debug\netcoreapp3.1\04 LargestThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\04 LargestThreeNumbers\obj\Debug\netcoreapp3.1\04 LargestThreeNumbers.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\04 LargestThreeNumbers\obj\Debug\netcoreapp3.1\04 LargestThreeNumbers.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\04 LargestThreeNumbers\obj\Debug\netcoreapp3.1\04 LargestThreeNumbers.pdb

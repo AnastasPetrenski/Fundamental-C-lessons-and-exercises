@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\06 ValidUserNames\bin\Debug\netcoreapp3.1\06 ValidUserNames.exe
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\06 ValidUserNames\bin\Debug\netcoreapp3.1\06 ValidUserNames.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\06 ValidUserNames\bin\Debug\netcoreapp3.1\06 ValidUserNames.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\06 ValidUserNames\bin\Debug\netcoreapp3.1\06 ValidUserNames.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\06 ValidUserNames\bin\Debug\netcoreapp3.1\06 ValidUserNames.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\06 ValidUserNames\bin\Debug\netcoreapp3.1\06 ValidUserNames.pdb
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\06 ValidUserNames\obj\Debug\netcoreapp3.1\06 ValidUserNames.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\06 ValidUserNames\obj\Debug\netcoreapp3.1\06 ValidUserNames.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\06 ValidUserNames\obj\Debug\netcoreapp3.1\06 ValidUserNames.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\06 ValidUserNames\obj\Debug\netcoreapp3.1\06 ValidUserNames.pdb
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\06 ValidUserNames\obj\Debug\netcoreapp3.1\06 ValidUserNames.csprojAssemblyReference.cache

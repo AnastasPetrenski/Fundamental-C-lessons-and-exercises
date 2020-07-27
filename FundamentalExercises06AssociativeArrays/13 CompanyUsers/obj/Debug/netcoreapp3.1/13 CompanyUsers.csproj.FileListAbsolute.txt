@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\13 CompanyUsers\bin\Debug\netcoreapp3.1\13 CompanyUsers.exe
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\13 CompanyUsers\obj\Debug\netcoreapp3.1\13 CompanyUsers.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\13 CompanyUsers\obj\Debug\netcoreapp3.1\13 CompanyUsers.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\13 CompanyUsers\bin\Debug\netcoreapp3.1\13 CompanyUsers.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\13 CompanyUsers\bin\Debug\netcoreapp3.1\13 CompanyUsers.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\13 CompanyUsers\bin\Debug\netcoreapp3.1\13 CompanyUsers.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\13 CompanyUsers\bin\Debug\netcoreapp3.1\13 CompanyUsers.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\13 CompanyUsers\bin\Debug\netcoreapp3.1\13 CompanyUsers.pdb
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\13 CompanyUsers\obj\Debug\netcoreapp3.1\13 CompanyUsers.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\13 CompanyUsers\obj\Debug\netcoreapp3.1\13 CompanyUsers.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\13 CompanyUsers\obj\Debug\netcoreapp3.1\13 CompanyUsers.pdb

@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\14 ExtractPersonInformation\bin\Debug\netcoreapp3.1\14 ExtractPersonInformation.exe
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\14 ExtractPersonInformation\bin\Debug\netcoreapp3.1\14 ExtractPersonInformation.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\14 ExtractPersonInformation\bin\Debug\netcoreapp3.1\14 ExtractPersonInformation.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\14 ExtractPersonInformation\bin\Debug\netcoreapp3.1\14 ExtractPersonInformation.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\14 ExtractPersonInformation\bin\Debug\netcoreapp3.1\14 ExtractPersonInformation.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\14 ExtractPersonInformation\bin\Debug\netcoreapp3.1\14 ExtractPersonInformation.pdb
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\14 ExtractPersonInformation\obj\Debug\netcoreapp3.1\14 ExtractPersonInformation.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\14 ExtractPersonInformation\obj\Debug\netcoreapp3.1\14 ExtractPersonInformation.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\14 ExtractPersonInformation\obj\Debug\netcoreapp3.1\14 ExtractPersonInformation.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\14 ExtractPersonInformation\obj\Debug\netcoreapp3.1\14 ExtractPersonInformation.pdb
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\14 ExtractPersonInformation\obj\Debug\netcoreapp3.1\14 ExtractPersonInformation.csprojAssemblyReference.cache

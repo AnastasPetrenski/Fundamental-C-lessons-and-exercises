@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\01 CountRealNumber\bin\Debug\netcoreapp3.1\01 CountRealNumber.exe
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\01 CountRealNumber\bin\Debug\netcoreapp3.1\01 CountRealNumber.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\01 CountRealNumber\bin\Debug\netcoreapp3.1\01 CountRealNumber.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\01 CountRealNumber\bin\Debug\netcoreapp3.1\01 CountRealNumber.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\01 CountRealNumber\bin\Debug\netcoreapp3.1\01 CountRealNumber.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\01 CountRealNumber\bin\Debug\netcoreapp3.1\01 CountRealNumber.pdb
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\01 CountRealNumber\obj\Debug\netcoreapp3.1\01 CountRealNumber.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\01 CountRealNumber\obj\Debug\netcoreapp3.1\01 CountRealNumber.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\01 CountRealNumber\obj\Debug\netcoreapp3.1\01 CountRealNumber.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\01 CountRealNumber\obj\Debug\netcoreapp3.1\01 CountRealNumber.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\01 CountRealNumber\obj\Debug\netcoreapp3.1\01 CountRealNumber.pdb

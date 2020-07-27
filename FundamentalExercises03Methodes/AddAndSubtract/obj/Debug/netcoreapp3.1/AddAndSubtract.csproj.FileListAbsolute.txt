@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.exe
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.dll
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.pdb
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.dll
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.pdb

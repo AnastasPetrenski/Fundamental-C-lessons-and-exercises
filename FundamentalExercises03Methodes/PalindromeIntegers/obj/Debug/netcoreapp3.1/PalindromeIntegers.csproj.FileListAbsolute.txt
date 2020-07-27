@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.exe
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.dll
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.pdb
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.dll
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.pdb

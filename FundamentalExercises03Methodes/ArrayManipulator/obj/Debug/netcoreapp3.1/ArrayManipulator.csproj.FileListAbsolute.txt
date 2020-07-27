@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\ArrayManipulator\bin\Debug\netcoreapp3.1\ArrayManipulator.exe
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\ArrayManipulator\bin\Debug\netcoreapp3.1\ArrayManipulator.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\ArrayManipulator\bin\Debug\netcoreapp3.1\ArrayManipulator.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\ArrayManipulator\bin\Debug\netcoreapp3.1\ArrayManipulator.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\ArrayManipulator\bin\Debug\netcoreapp3.1\ArrayManipulator.dll
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\ArrayManipulator\bin\Debug\netcoreapp3.1\ArrayManipulator.pdb
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\ArrayManipulator\obj\Debug\netcoreapp3.1\ArrayManipulator.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\ArrayManipulator\obj\Debug\netcoreapp3.1\ArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\ArrayManipulator\obj\Debug\netcoreapp3.1\ArrayManipulator.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\ArrayManipulator\obj\Debug\netcoreapp3.1\ArrayManipulator.dll
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\ArrayManipulator\obj\Debug\netcoreapp3.1\ArrayManipulator.pdb

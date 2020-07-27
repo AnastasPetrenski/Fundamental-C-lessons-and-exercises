@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\07 StarEnigma\bin\Debug\netcoreapp3.1\07 StarEnigma.exe
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\07 StarEnigma\bin\Debug\netcoreapp3.1\07 StarEnigma.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\07 StarEnigma\bin\Debug\netcoreapp3.1\07 StarEnigma.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\07 StarEnigma\bin\Debug\netcoreapp3.1\07 StarEnigma.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\07 StarEnigma\bin\Debug\netcoreapp3.1\07 StarEnigma.dll
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\07 StarEnigma\bin\Debug\netcoreapp3.1\07 StarEnigma.pdb
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\07 StarEnigma\obj\Debug\netcoreapp3.1\07 StarEnigma.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\07 StarEnigma\obj\Debug\netcoreapp3.1\07 StarEnigma.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\07 StarEnigma\obj\Debug\netcoreapp3.1\07 StarEnigma.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\07 StarEnigma\obj\Debug\netcoreapp3.1\07 StarEnigma.dll
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\07 StarEnigma\obj\Debug\netcoreapp3.1\07 StarEnigma.pdb

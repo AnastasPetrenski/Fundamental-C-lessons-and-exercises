@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\Zig-ZagArrays\bin\Debug\netcoreapp3.1\Zig-ZagArrays.exe
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\Zig-ZagArrays\bin\Debug\netcoreapp3.1\Zig-ZagArrays.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\Zig-ZagArrays\bin\Debug\netcoreapp3.1\Zig-ZagArrays.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\Zig-ZagArrays\bin\Debug\netcoreapp3.1\Zig-ZagArrays.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\Zig-ZagArrays\bin\Debug\netcoreapp3.1\Zig-ZagArrays.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\Zig-ZagArrays\bin\Debug\netcoreapp3.1\Zig-ZagArrays.pdb
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\Zig-ZagArrays\obj\Debug\netcoreapp3.1\Zig-ZagArrays.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\Zig-ZagArrays\obj\Debug\netcoreapp3.1\Zig-ZagArrays.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\Zig-ZagArrays\obj\Debug\netcoreapp3.1\Zig-ZagArrays.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\Zig-ZagArrays\obj\Debug\netcoreapp3.1\Zig-ZagArrays.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\Zig-ZagArrays\obj\Debug\netcoreapp3.1\Zig-ZagArrays.pdb

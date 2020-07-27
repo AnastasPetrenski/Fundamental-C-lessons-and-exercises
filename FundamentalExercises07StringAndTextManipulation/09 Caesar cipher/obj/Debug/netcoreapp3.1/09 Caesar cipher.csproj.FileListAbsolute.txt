@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\09 Caesar cipher\bin\Debug\netcoreapp3.1\09 Caesar cipher.exe
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\09 Caesar cipher\bin\Debug\netcoreapp3.1\09 Caesar cipher.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\09 Caesar cipher\bin\Debug\netcoreapp3.1\09 Caesar cipher.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\09 Caesar cipher\bin\Debug\netcoreapp3.1\09 Caesar cipher.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\09 Caesar cipher\bin\Debug\netcoreapp3.1\09 Caesar cipher.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\09 Caesar cipher\bin\Debug\netcoreapp3.1\09 Caesar cipher.pdb
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\09 Caesar cipher\obj\Debug\netcoreapp3.1\09 Caesar cipher.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\09 Caesar cipher\obj\Debug\netcoreapp3.1\09 Caesar cipher.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\09 Caesar cipher\obj\Debug\netcoreapp3.1\09 Caesar cipher.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\09 Caesar cipher\obj\Debug\netcoreapp3.1\09 Caesar cipher.pdb

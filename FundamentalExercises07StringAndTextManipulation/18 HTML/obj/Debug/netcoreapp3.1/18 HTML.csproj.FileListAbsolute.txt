@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\18 HTML\bin\Debug\netcoreapp3.1\18 HTML.exe
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\18 HTML\bin\Debug\netcoreapp3.1\18 HTML.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\18 HTML\bin\Debug\netcoreapp3.1\18 HTML.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\18 HTML\bin\Debug\netcoreapp3.1\18 HTML.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\18 HTML\bin\Debug\netcoreapp3.1\18 HTML.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\18 HTML\bin\Debug\netcoreapp3.1\18 HTML.pdb
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\18 HTML\obj\Debug\netcoreapp3.1\18 HTML.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\18 HTML\obj\Debug\netcoreapp3.1\18 HTML.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\18 HTML\obj\Debug\netcoreapp3.1\18 HTML.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\18 HTML\obj\Debug\netcoreapp3.1\18 HTML.pdb

@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\3333\bin\Debug\netcoreapp3.1\3333.exe
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\3333\bin\Debug\netcoreapp3.1\3333.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\3333\bin\Debug\netcoreapp3.1\3333.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\3333\bin\Debug\netcoreapp3.1\3333.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\3333\bin\Debug\netcoreapp3.1\3333.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\3333\bin\Debug\netcoreapp3.1\3333.pdb
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\3333\obj\Debug\netcoreapp3.1\3333.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\3333\obj\Debug\netcoreapp3.1\3333.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\3333\obj\Debug\netcoreapp3.1\3333.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\3333\obj\Debug\netcoreapp3.1\3333.pdb
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\3333\obj\Debug\netcoreapp3.1\3333.csprojAssemblyReference.cache

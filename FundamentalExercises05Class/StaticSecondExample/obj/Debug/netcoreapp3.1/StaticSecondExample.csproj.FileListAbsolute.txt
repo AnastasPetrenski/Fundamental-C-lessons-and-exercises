@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises05Class\StaticSecondExample\bin\Debug\netcoreapp3.1\StaticSecondExample.exe
+C:\Users\anastas\source\repos\FundamentalExercises05Class\StaticSecondExample\bin\Debug\netcoreapp3.1\StaticSecondExample.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\StaticSecondExample\bin\Debug\netcoreapp3.1\StaticSecondExample.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\StaticSecondExample\bin\Debug\netcoreapp3.1\StaticSecondExample.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\StaticSecondExample\bin\Debug\netcoreapp3.1\StaticSecondExample.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\StaticSecondExample\bin\Debug\netcoreapp3.1\StaticSecondExample.pdb
+C:\Users\anastas\source\repos\FundamentalExercises05Class\StaticSecondExample\obj\Debug\netcoreapp3.1\StaticSecondExample.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\StaticSecondExample\obj\Debug\netcoreapp3.1\StaticSecondExample.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises05Class\StaticSecondExample\obj\Debug\netcoreapp3.1\StaticSecondExample.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\StaticSecondExample\obj\Debug\netcoreapp3.1\StaticSecondExample.pdb
+C:\Users\anastas\source\repos\FundamentalExercises05Class\StaticSecondExample\obj\Debug\netcoreapp3.1\StaticSecondExample.csprojAssemblyReference.cache

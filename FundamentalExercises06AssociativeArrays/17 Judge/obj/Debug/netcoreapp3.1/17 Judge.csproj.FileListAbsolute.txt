@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\17 Judge\bin\Debug\netcoreapp3.1\17 Judge.exe
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\17 Judge\obj\Debug\netcoreapp3.1\17 Judge.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\17 Judge\obj\Debug\netcoreapp3.1\17 Judge.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\17 Judge\obj\Debug\netcoreapp3.1\17 Judge.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\17 Judge\bin\Debug\netcoreapp3.1\17 Judge.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\17 Judge\bin\Debug\netcoreapp3.1\17 Judge.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\17 Judge\bin\Debug\netcoreapp3.1\17 Judge.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\17 Judge\bin\Debug\netcoreapp3.1\17 Judge.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\17 Judge\bin\Debug\netcoreapp3.1\17 Judge.pdb
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\17 Judge\obj\Debug\netcoreapp3.1\17 Judge.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\17 Judge\obj\Debug\netcoreapp3.1\17 Judge.pdb

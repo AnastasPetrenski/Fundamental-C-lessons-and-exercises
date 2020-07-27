@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\SumIntegers\bin\Debug\netcoreapp3.1\SumIntegers.exe
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\SumIntegers\bin\Debug\netcoreapp3.1\SumIntegers.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\SumIntegers\bin\Debug\netcoreapp3.1\SumIntegers.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\SumIntegers\bin\Debug\netcoreapp3.1\SumIntegers.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\SumIntegers\bin\Debug\netcoreapp3.1\SumIntegers.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\SumIntegers\bin\Debug\netcoreapp3.1\SumIntegers.pdb
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\SumIntegers\obj\Debug\netcoreapp3.1\SumIntegers.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\SumIntegers\obj\Debug\netcoreapp3.1\SumIntegers.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\SumIntegers\obj\Debug\netcoreapp3.1\SumIntegers.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\SumIntegers\obj\Debug\netcoreapp3.1\SumIntegers.pdb
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\SumIntegers\obj\Debug\netcoreapp3.1\SumIntegers.csprojAssemblyReference.cache

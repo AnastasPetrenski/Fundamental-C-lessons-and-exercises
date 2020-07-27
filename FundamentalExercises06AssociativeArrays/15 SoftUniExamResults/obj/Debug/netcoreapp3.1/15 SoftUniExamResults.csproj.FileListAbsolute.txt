@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\15 SoftUniExamResults\bin\Debug\netcoreapp3.1\15 SoftUniExamResults.exe
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\15 SoftUniExamResults\bin\Debug\netcoreapp3.1\15 SoftUniExamResults.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\15 SoftUniExamResults\bin\Debug\netcoreapp3.1\15 SoftUniExamResults.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\15 SoftUniExamResults\bin\Debug\netcoreapp3.1\15 SoftUniExamResults.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\15 SoftUniExamResults\bin\Debug\netcoreapp3.1\15 SoftUniExamResults.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\15 SoftUniExamResults\bin\Debug\netcoreapp3.1\15 SoftUniExamResults.pdb
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\15 SoftUniExamResults\obj\Debug\netcoreapp3.1\15 SoftUniExamResults.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\15 SoftUniExamResults\obj\Debug\netcoreapp3.1\15 SoftUniExamResults.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\15 SoftUniExamResults\obj\Debug\netcoreapp3.1\15 SoftUniExamResults.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\15 SoftUniExamResults\obj\Debug\netcoreapp3.1\15 SoftUniExamResults.pdb

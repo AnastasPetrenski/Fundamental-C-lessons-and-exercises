@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\12 StringExplosion\bin\Debug\netcoreapp3.1\12 StringExplosion.exe
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\12 StringExplosion\bin\Debug\netcoreapp3.1\12 StringExplosion.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\12 StringExplosion\bin\Debug\netcoreapp3.1\12 StringExplosion.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\12 StringExplosion\bin\Debug\netcoreapp3.1\12 StringExplosion.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\12 StringExplosion\bin\Debug\netcoreapp3.1\12 StringExplosion.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\12 StringExplosion\bin\Debug\netcoreapp3.1\12 StringExplosion.pdb
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\12 StringExplosion\obj\Debug\netcoreapp3.1\12 StringExplosion.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\12 StringExplosion\obj\Debug\netcoreapp3.1\12 StringExplosion.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\12 StringExplosion\obj\Debug\netcoreapp3.1\12 StringExplosion.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\12 StringExplosion\obj\Debug\netcoreapp3.1\12 StringExplosion.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\12 StringExplosion\obj\Debug\netcoreapp3.1\12 StringExplosion.pdb

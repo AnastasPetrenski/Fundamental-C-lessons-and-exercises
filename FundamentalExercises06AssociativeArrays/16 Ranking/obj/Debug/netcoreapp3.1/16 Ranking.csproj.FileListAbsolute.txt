@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\16 Ranking\bin\Debug\netcoreapp3.1\16 Ranking.exe
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\16 Ranking\bin\Debug\netcoreapp3.1\16 Ranking.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\16 Ranking\bin\Debug\netcoreapp3.1\16 Ranking.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\16 Ranking\bin\Debug\netcoreapp3.1\16 Ranking.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\16 Ranking\bin\Debug\netcoreapp3.1\16 Ranking.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\16 Ranking\bin\Debug\netcoreapp3.1\16 Ranking.pdb
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\16 Ranking\obj\Debug\netcoreapp3.1\16 Ranking.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\16 Ranking\obj\Debug\netcoreapp3.1\16 Ranking.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\16 Ranking\obj\Debug\netcoreapp3.1\16 Ranking.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\16 Ranking\obj\Debug\netcoreapp3.1\16 Ranking.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\16 Ranking\obj\Debug\netcoreapp3.1\16 Ranking.pdb

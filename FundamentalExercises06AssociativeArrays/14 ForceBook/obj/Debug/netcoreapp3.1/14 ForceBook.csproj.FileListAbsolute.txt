@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\14 ForceBook\bin\Debug\netcoreapp3.1\14 ForceBook.exe
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\14 ForceBook\bin\Debug\netcoreapp3.1\14 ForceBook.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\14 ForceBook\bin\Debug\netcoreapp3.1\14 ForceBook.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\14 ForceBook\bin\Debug\netcoreapp3.1\14 ForceBook.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\14 ForceBook\bin\Debug\netcoreapp3.1\14 ForceBook.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\14 ForceBook\bin\Debug\netcoreapp3.1\14 ForceBook.pdb
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\14 ForceBook\obj\Debug\netcoreapp3.1\14 ForceBook.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\14 ForceBook\obj\Debug\netcoreapp3.1\14 ForceBook.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\14 ForceBook\obj\Debug\netcoreapp3.1\14 ForceBook.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\14 ForceBook\obj\Debug\netcoreapp3.1\14 ForceBook.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\14 ForceBook\obj\Debug\netcoreapp3.1\14 ForceBook.pdb

@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.exe
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.pdb
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.pdb

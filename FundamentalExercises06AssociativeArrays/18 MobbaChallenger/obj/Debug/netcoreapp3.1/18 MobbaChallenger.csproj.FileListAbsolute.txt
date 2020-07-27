@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\18 MobbaChallenger\bin\Debug\netcoreapp3.1\18 MobbaChallenger.exe
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\18 MobbaChallenger\bin\Debug\netcoreapp3.1\18 MobbaChallenger.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\18 MobbaChallenger\bin\Debug\netcoreapp3.1\18 MobbaChallenger.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\18 MobbaChallenger\bin\Debug\netcoreapp3.1\18 MobbaChallenger.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\18 MobbaChallenger\bin\Debug\netcoreapp3.1\18 MobbaChallenger.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\18 MobbaChallenger\bin\Debug\netcoreapp3.1\18 MobbaChallenger.pdb
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\18 MobbaChallenger\obj\Debug\netcoreapp3.1\18 MobbaChallenger.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\18 MobbaChallenger\obj\Debug\netcoreapp3.1\18 MobbaChallenger.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\18 MobbaChallenger\obj\Debug\netcoreapp3.1\18 MobbaChallenger.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\18 MobbaChallenger\obj\Debug\netcoreapp3.1\18 MobbaChallenger.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\18 MobbaChallenger\obj\Debug\netcoreapp3.1\18 MobbaChallenger.pdb

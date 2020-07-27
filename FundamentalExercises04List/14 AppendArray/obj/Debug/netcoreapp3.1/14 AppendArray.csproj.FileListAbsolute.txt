@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercises04List\14 AppendArray\bin\Debug\netcoreapp3.1\14 AppendArray.exe
+C:\Users\anastas\source\repos\FundamentalExercises04List\14 AppendArray\bin\Debug\netcoreapp3.1\14 AppendArray.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\14 AppendArray\bin\Debug\netcoreapp3.1\14 AppendArray.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\14 AppendArray\bin\Debug\netcoreapp3.1\14 AppendArray.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\14 AppendArray\bin\Debug\netcoreapp3.1\14 AppendArray.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\14 AppendArray\bin\Debug\netcoreapp3.1\14 AppendArray.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\14 AppendArray\obj\Debug\netcoreapp3.1\14 AppendArray.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\14 AppendArray\obj\Debug\netcoreapp3.1\14 AppendArray.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises04List\14 AppendArray\obj\Debug\netcoreapp3.1\14 AppendArray.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\14 AppendArray\obj\Debug\netcoreapp3.1\14 AppendArray.pdb

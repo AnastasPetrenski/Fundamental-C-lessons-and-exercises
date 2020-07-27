@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercises04List\16 AnonymousThreat\bin\Debug\netcoreapp3.1\16 AnonymousThreat.exe
+C:\Users\anastas\source\repos\FundamentalExercises04List\16 AnonymousThreat\bin\Debug\netcoreapp3.1\16 AnonymousThreat.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\16 AnonymousThreat\bin\Debug\netcoreapp3.1\16 AnonymousThreat.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\16 AnonymousThreat\bin\Debug\netcoreapp3.1\16 AnonymousThreat.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\16 AnonymousThreat\bin\Debug\netcoreapp3.1\16 AnonymousThreat.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\16 AnonymousThreat\bin\Debug\netcoreapp3.1\16 AnonymousThreat.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\16 AnonymousThreat\obj\Debug\netcoreapp3.1\16 AnonymousThreat.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\16 AnonymousThreat\obj\Debug\netcoreapp3.1\16 AnonymousThreat.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises04List\16 AnonymousThreat\obj\Debug\netcoreapp3.1\16 AnonymousThreat.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\16 AnonymousThreat\obj\Debug\netcoreapp3.1\16 AnonymousThreat.pdb

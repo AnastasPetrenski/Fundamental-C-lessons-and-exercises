@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercises04List\05 RemoveNegativesAndRevers\bin\Debug\netcoreapp3.1\05 RemoveNegativesAndRevers.exe
+C:\Users\anastas\source\repos\FundamentalExercises04List\05 RemoveNegativesAndRevers\bin\Debug\netcoreapp3.1\05 RemoveNegativesAndRevers.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\05 RemoveNegativesAndRevers\bin\Debug\netcoreapp3.1\05 RemoveNegativesAndRevers.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\05 RemoveNegativesAndRevers\bin\Debug\netcoreapp3.1\05 RemoveNegativesAndRevers.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\05 RemoveNegativesAndRevers\bin\Debug\netcoreapp3.1\05 RemoveNegativesAndRevers.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\05 RemoveNegativesAndRevers\bin\Debug\netcoreapp3.1\05 RemoveNegativesAndRevers.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\05 RemoveNegativesAndRevers\obj\Debug\netcoreapp3.1\05 RemoveNegativesAndRevers.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\05 RemoveNegativesAndRevers\obj\Debug\netcoreapp3.1\05 RemoveNegativesAndRevers.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises04List\05 RemoveNegativesAndRevers\obj\Debug\netcoreapp3.1\05 RemoveNegativesAndRevers.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\05 RemoveNegativesAndRevers\obj\Debug\netcoreapp3.1\05 RemoveNegativesAndRevers.pdb

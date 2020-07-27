@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.exe
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.dll
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.pdb
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.dll
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.pdb

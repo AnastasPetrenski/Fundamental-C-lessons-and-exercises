@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\TopIntegers\bin\Debug\netcoreapp3.1\TopIntegers.exe
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\TopIntegers\bin\Debug\netcoreapp3.1\TopIntegers.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\TopIntegers\bin\Debug\netcoreapp3.1\TopIntegers.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\TopIntegers\bin\Debug\netcoreapp3.1\TopIntegers.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\TopIntegers\bin\Debug\netcoreapp3.1\TopIntegers.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\TopIntegers\bin\Debug\netcoreapp3.1\TopIntegers.pdb
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\TopIntegers\obj\Debug\netcoreapp3.1\TopIntegers.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\TopIntegers\obj\Debug\netcoreapp3.1\TopIntegers.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\TopIntegers\obj\Debug\netcoreapp3.1\TopIntegers.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\TopIntegers\obj\Debug\netcoreapp3.1\TopIntegers.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\TopIntegers\obj\Debug\netcoreapp3.1\TopIntegers.pdb

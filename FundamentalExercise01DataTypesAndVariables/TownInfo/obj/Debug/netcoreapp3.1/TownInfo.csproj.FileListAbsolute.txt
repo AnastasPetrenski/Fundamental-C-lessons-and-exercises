@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\TownInfo\bin\Debug\netcoreapp3.1\TownInfo.exe
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\TownInfo\bin\Debug\netcoreapp3.1\TownInfo.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\TownInfo\bin\Debug\netcoreapp3.1\TownInfo.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\TownInfo\bin\Debug\netcoreapp3.1\TownInfo.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\TownInfo\bin\Debug\netcoreapp3.1\TownInfo.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\TownInfo\bin\Debug\netcoreapp3.1\TownInfo.pdb
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\TownInfo\obj\Debug\netcoreapp3.1\TownInfo.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\TownInfo\obj\Debug\netcoreapp3.1\TownInfo.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\TownInfo\obj\Debug\netcoreapp3.1\TownInfo.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\TownInfo\obj\Debug\netcoreapp3.1\TownInfo.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\TownInfo\obj\Debug\netcoreapp3.1\TownInfo.pdb

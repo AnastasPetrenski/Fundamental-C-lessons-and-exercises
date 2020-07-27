@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.exe
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.dll
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.pdb
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.dll
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.pdb

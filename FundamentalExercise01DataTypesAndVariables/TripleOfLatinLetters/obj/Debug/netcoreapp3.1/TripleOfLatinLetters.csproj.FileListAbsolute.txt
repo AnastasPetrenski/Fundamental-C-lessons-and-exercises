@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\TripleOfLatinLetters\bin\Debug\netcoreapp3.1\TripleOfLatinLetters.exe
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\TripleOfLatinLetters\bin\Debug\netcoreapp3.1\TripleOfLatinLetters.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\TripleOfLatinLetters\bin\Debug\netcoreapp3.1\TripleOfLatinLetters.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\TripleOfLatinLetters\bin\Debug\netcoreapp3.1\TripleOfLatinLetters.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\TripleOfLatinLetters\bin\Debug\netcoreapp3.1\TripleOfLatinLetters.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\TripleOfLatinLetters\bin\Debug\netcoreapp3.1\TripleOfLatinLetters.pdb
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\TripleOfLatinLetters\obj\Debug\netcoreapp3.1\TripleOfLatinLetters.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\TripleOfLatinLetters\obj\Debug\netcoreapp3.1\TripleOfLatinLetters.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\TripleOfLatinLetters\obj\Debug\netcoreapp3.1\TripleOfLatinLetters.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\TripleOfLatinLetters\obj\Debug\netcoreapp3.1\TripleOfLatinLetters.pdb

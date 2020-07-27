@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises05Class\06 StoreBoxes\bin\Debug\netcoreapp3.1\06 StoreBoxes.exe
+C:\Users\anastas\source\repos\FundamentalExercises05Class\06 StoreBoxes\bin\Debug\netcoreapp3.1\06 StoreBoxes.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\06 StoreBoxes\bin\Debug\netcoreapp3.1\06 StoreBoxes.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\06 StoreBoxes\bin\Debug\netcoreapp3.1\06 StoreBoxes.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\06 StoreBoxes\bin\Debug\netcoreapp3.1\06 StoreBoxes.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\06 StoreBoxes\bin\Debug\netcoreapp3.1\06 StoreBoxes.pdb
+C:\Users\anastas\source\repos\FundamentalExercises05Class\06 StoreBoxes\obj\Debug\netcoreapp3.1\06 StoreBoxes.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\06 StoreBoxes\obj\Debug\netcoreapp3.1\06 StoreBoxes.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\06 StoreBoxes\obj\Debug\netcoreapp3.1\06 StoreBoxes.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises05Class\06 StoreBoxes\obj\Debug\netcoreapp3.1\06 StoreBoxes.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\06 StoreBoxes\obj\Debug\netcoreapp3.1\06 StoreBoxes.pdb

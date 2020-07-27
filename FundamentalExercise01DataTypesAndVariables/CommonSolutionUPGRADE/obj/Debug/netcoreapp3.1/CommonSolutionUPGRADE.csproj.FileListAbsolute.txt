@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\CommonSolutionUPGRADE\bin\Debug\netcoreapp3.1\CommonSolutionUPGRADE.exe
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\CommonSolutionUPGRADE\bin\Debug\netcoreapp3.1\CommonSolutionUPGRADE.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\CommonSolutionUPGRADE\bin\Debug\netcoreapp3.1\CommonSolutionUPGRADE.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\CommonSolutionUPGRADE\bin\Debug\netcoreapp3.1\CommonSolutionUPGRADE.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\CommonSolutionUPGRADE\bin\Debug\netcoreapp3.1\CommonSolutionUPGRADE.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\CommonSolutionUPGRADE\bin\Debug\netcoreapp3.1\CommonSolutionUPGRADE.pdb
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\CommonSolutionUPGRADE\obj\Debug\netcoreapp3.1\CommonSolutionUPGRADE.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\CommonSolutionUPGRADE\obj\Debug\netcoreapp3.1\CommonSolutionUPGRADE.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\CommonSolutionUPGRADE\obj\Debug\netcoreapp3.1\CommonSolutionUPGRADE.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\CommonSolutionUPGRADE\obj\Debug\netcoreapp3.1\CommonSolutionUPGRADE.pdb
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\CommonSolutionUPGRADE\obj\Debug\netcoreapp3.1\CommonSolutionUPGRADE.csprojAssemblyReference.cache

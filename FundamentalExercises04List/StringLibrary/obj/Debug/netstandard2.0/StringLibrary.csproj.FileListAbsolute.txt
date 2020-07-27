@@ -1,0 +1,8 @@
+C:\Users\anastas\source\repos\FundamentalExercises04List\StringLibrary\bin\Debug\netstandard2.0\StringLibrary.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\StringLibrary\bin\Debug\netstandard2.0\StringLibrary.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\StringLibrary\bin\Debug\netstandard2.0\StringLibrary.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises04List\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.csprojAssemblyReference.cache

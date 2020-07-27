@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises05Class\13 TeamWorkProjects100Points\bin\Debug\netcoreapp3.1\13 TeamWorkProjects100Points.exe
+C:\Users\anastas\source\repos\FundamentalExercises05Class\13 TeamWorkProjects100Points\bin\Debug\netcoreapp3.1\13 TeamWorkProjects100Points.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\13 TeamWorkProjects100Points\bin\Debug\netcoreapp3.1\13 TeamWorkProjects100Points.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\13 TeamWorkProjects100Points\bin\Debug\netcoreapp3.1\13 TeamWorkProjects100Points.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\13 TeamWorkProjects100Points\bin\Debug\netcoreapp3.1\13 TeamWorkProjects100Points.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\13 TeamWorkProjects100Points\bin\Debug\netcoreapp3.1\13 TeamWorkProjects100Points.pdb
+C:\Users\anastas\source\repos\FundamentalExercises05Class\13 TeamWorkProjects100Points\obj\Debug\netcoreapp3.1\13 TeamWorkProjects100Points.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\13 TeamWorkProjects100Points\obj\Debug\netcoreapp3.1\13 TeamWorkProjects100Points.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\13 TeamWorkProjects100Points\obj\Debug\netcoreapp3.1\13 TeamWorkProjects100Points.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises05Class\13 TeamWorkProjects100Points\obj\Debug\netcoreapp3.1\13 TeamWorkProjects100Points.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\13 TeamWorkProjects100Points\obj\Debug\netcoreapp3.1\13 TeamWorkProjects100Points.pdb

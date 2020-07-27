@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises05Class\03 BigFactorial\bin\Debug\netcoreapp3.1\03 BigFactorial.exe
+C:\Users\anastas\source\repos\FundamentalExercises05Class\03 BigFactorial\bin\Debug\netcoreapp3.1\03 BigFactorial.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\03 BigFactorial\bin\Debug\netcoreapp3.1\03 BigFactorial.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\03 BigFactorial\bin\Debug\netcoreapp3.1\03 BigFactorial.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\03 BigFactorial\bin\Debug\netcoreapp3.1\03 BigFactorial.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\03 BigFactorial\bin\Debug\netcoreapp3.1\03 BigFactorial.pdb
+C:\Users\anastas\source\repos\FundamentalExercises05Class\03 BigFactorial\obj\Debug\netcoreapp3.1\03 BigFactorial.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\03 BigFactorial\obj\Debug\netcoreapp3.1\03 BigFactorial.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\03 BigFactorial\obj\Debug\netcoreapp3.1\03 BigFactorial.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises05Class\03 BigFactorial\obj\Debug\netcoreapp3.1\03 BigFactorial.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\03 BigFactorial\obj\Debug\netcoreapp3.1\03 BigFactorial.pdb

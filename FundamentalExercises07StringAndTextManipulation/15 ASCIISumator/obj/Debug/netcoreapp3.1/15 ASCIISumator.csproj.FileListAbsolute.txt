@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\15 ASCIISumator\bin\Debug\netcoreapp3.1\15 ASCIISumator.exe
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\15 ASCIISumator\bin\Debug\netcoreapp3.1\15 ASCIISumator.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\15 ASCIISumator\bin\Debug\netcoreapp3.1\15 ASCIISumator.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\15 ASCIISumator\bin\Debug\netcoreapp3.1\15 ASCIISumator.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\15 ASCIISumator\bin\Debug\netcoreapp3.1\15 ASCIISumator.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\15 ASCIISumator\bin\Debug\netcoreapp3.1\15 ASCIISumator.pdb
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\15 ASCIISumator\obj\Debug\netcoreapp3.1\15 ASCIISumator.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\15 ASCIISumator\obj\Debug\netcoreapp3.1\15 ASCIISumator.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\15 ASCIISumator\obj\Debug\netcoreapp3.1\15 ASCIISumator.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\15 ASCIISumator\obj\Debug\netcoreapp3.1\15 ASCIISumator.pdb
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\15 ASCIISumator\obj\Debug\netcoreapp3.1\15 ASCIISumator.csprojAssemblyReference.cache

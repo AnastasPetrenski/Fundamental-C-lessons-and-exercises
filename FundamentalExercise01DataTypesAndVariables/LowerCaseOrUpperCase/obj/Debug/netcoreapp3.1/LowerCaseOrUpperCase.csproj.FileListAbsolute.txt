@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\LowerCaseOrUpperCase\bin\Debug\netcoreapp3.1\LowerCaseOrUpperCase.exe
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\LowerCaseOrUpperCase\bin\Debug\netcoreapp3.1\LowerCaseOrUpperCase.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\LowerCaseOrUpperCase\bin\Debug\netcoreapp3.1\LowerCaseOrUpperCase.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\LowerCaseOrUpperCase\bin\Debug\netcoreapp3.1\LowerCaseOrUpperCase.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\LowerCaseOrUpperCase\bin\Debug\netcoreapp3.1\LowerCaseOrUpperCase.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\LowerCaseOrUpperCase\bin\Debug\netcoreapp3.1\LowerCaseOrUpperCase.pdb
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\LowerCaseOrUpperCase\obj\Debug\netcoreapp3.1\LowerCaseOrUpperCase.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\LowerCaseOrUpperCase\obj\Debug\netcoreapp3.1\LowerCaseOrUpperCase.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\LowerCaseOrUpperCase\obj\Debug\netcoreapp3.1\LowerCaseOrUpperCase.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\LowerCaseOrUpperCase\obj\Debug\netcoreapp3.1\LowerCaseOrUpperCase.pdb

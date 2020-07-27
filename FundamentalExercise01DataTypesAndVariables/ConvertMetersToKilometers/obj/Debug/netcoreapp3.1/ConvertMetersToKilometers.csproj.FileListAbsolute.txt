@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\ConvertMetersToKilometers.exe
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\ConvertMetersToKilometers.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\ConvertMetersToKilometers.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\ConvertMetersToKilometers.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\ConvertMetersToKilometers.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\ConvertMetersToKilometers.pdb
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\ConvertMetersToKilometers.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\ConvertMetersToKilometers.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\ConvertMetersToKilometers.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\ConvertMetersToKilometers.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\ConvertMetersToKilometers.pdb

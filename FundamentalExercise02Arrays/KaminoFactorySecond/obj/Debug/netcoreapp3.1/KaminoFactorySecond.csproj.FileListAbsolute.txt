@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\KaminoFactorySecond\bin\Debug\netcoreapp3.1\KaminoFactorySecond.exe
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\KaminoFactorySecond\bin\Debug\netcoreapp3.1\KaminoFactorySecond.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\KaminoFactorySecond\bin\Debug\netcoreapp3.1\KaminoFactorySecond.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\KaminoFactorySecond\bin\Debug\netcoreapp3.1\KaminoFactorySecond.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\KaminoFactorySecond\bin\Debug\netcoreapp3.1\KaminoFactorySecond.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\KaminoFactorySecond\bin\Debug\netcoreapp3.1\KaminoFactorySecond.pdb
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\KaminoFactorySecond\obj\Debug\netcoreapp3.1\KaminoFactorySecond.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\KaminoFactorySecond\obj\Debug\netcoreapp3.1\KaminoFactorySecond.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\KaminoFactorySecond\obj\Debug\netcoreapp3.1\KaminoFactorySecond.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\KaminoFactorySecond\obj\Debug\netcoreapp3.1\KaminoFactorySecond.pdb

@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\NxNMatrix\bin\Debug\netcoreapp3.1\NxNMatrix.exe
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\NxNMatrix\bin\Debug\netcoreapp3.1\NxNMatrix.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\NxNMatrix\bin\Debug\netcoreapp3.1\NxNMatrix.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\NxNMatrix\bin\Debug\netcoreapp3.1\NxNMatrix.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\NxNMatrix\bin\Debug\netcoreapp3.1\NxNMatrix.dll
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\NxNMatrix\bin\Debug\netcoreapp3.1\NxNMatrix.pdb
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\NxNMatrix\obj\Debug\netcoreapp3.1\NxNMatrix.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\NxNMatrix\obj\Debug\netcoreapp3.1\NxNMatrix.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\NxNMatrix\obj\Debug\netcoreapp3.1\NxNMatrix.dll
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\NxNMatrix\obj\Debug\netcoreapp3.1\NxNMatrix.pdb

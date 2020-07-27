@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\13 LettersChangeNumbers\bin\Debug\netcoreapp3.1\13 LettersChangeNumbers.exe
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\13 LettersChangeNumbers\bin\Debug\netcoreapp3.1\13 LettersChangeNumbers.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\13 LettersChangeNumbers\bin\Debug\netcoreapp3.1\13 LettersChangeNumbers.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\13 LettersChangeNumbers\bin\Debug\netcoreapp3.1\13 LettersChangeNumbers.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\13 LettersChangeNumbers\bin\Debug\netcoreapp3.1\13 LettersChangeNumbers.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\13 LettersChangeNumbers\bin\Debug\netcoreapp3.1\13 LettersChangeNumbers.pdb
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\13 LettersChangeNumbers\obj\Debug\netcoreapp3.1\13 LettersChangeNumbers.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\13 LettersChangeNumbers\obj\Debug\netcoreapp3.1\13 LettersChangeNumbers.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\13 LettersChangeNumbers\obj\Debug\netcoreapp3.1\13 LettersChangeNumbers.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\13 LettersChangeNumbers\obj\Debug\netcoreapp3.1\13 LettersChangeNumbers.pdb
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\13 LettersChangeNumbers\obj\Debug\netcoreapp3.1\13 LettersChangeNumbers.csprojAssemblyReference.cache

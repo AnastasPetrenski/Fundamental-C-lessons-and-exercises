@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercises04List\11 ListOperations\bin\Debug\netcoreapp3.1\11 ListOperations.exe
+C:\Users\anastas\source\repos\FundamentalExercises04List\11 ListOperations\bin\Debug\netcoreapp3.1\11 ListOperations.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\11 ListOperations\bin\Debug\netcoreapp3.1\11 ListOperations.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\11 ListOperations\bin\Debug\netcoreapp3.1\11 ListOperations.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\11 ListOperations\bin\Debug\netcoreapp3.1\11 ListOperations.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\11 ListOperations\bin\Debug\netcoreapp3.1\11 ListOperations.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\11 ListOperations\obj\Debug\netcoreapp3.1\11 ListOperations.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\11 ListOperations\obj\Debug\netcoreapp3.1\11 ListOperations.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises04List\11 ListOperations\obj\Debug\netcoreapp3.1\11 ListOperations.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\11 ListOperations\obj\Debug\netcoreapp3.1\11 ListOperations.pdb

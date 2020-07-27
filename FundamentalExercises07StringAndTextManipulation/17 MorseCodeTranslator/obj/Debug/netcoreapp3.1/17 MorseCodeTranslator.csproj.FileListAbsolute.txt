@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\17 MorseCodeTranslator\bin\Debug\netcoreapp3.1\17 MorseCodeTranslator.exe
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\17 MorseCodeTranslator\bin\Debug\netcoreapp3.1\17 MorseCodeTranslator.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\17 MorseCodeTranslator\bin\Debug\netcoreapp3.1\17 MorseCodeTranslator.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\17 MorseCodeTranslator\bin\Debug\netcoreapp3.1\17 MorseCodeTranslator.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\17 MorseCodeTranslator\bin\Debug\netcoreapp3.1\17 MorseCodeTranslator.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\17 MorseCodeTranslator\bin\Debug\netcoreapp3.1\17 MorseCodeTranslator.pdb
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\17 MorseCodeTranslator\obj\Debug\netcoreapp3.1\17 MorseCodeTranslator.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\17 MorseCodeTranslator\obj\Debug\netcoreapp3.1\17 MorseCodeTranslator.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\17 MorseCodeTranslator\obj\Debug\netcoreapp3.1\17 MorseCodeTranslator.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\17 MorseCodeTranslator\obj\Debug\netcoreapp3.1\17 MorseCodeTranslator.pdb
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\17 MorseCodeTranslator\obj\Debug\netcoreapp3.1\17 MorseCodeTranslator.csprojAssemblyReference.cache

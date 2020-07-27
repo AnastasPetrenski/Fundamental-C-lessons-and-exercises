@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\SnowBalls\bin\Debug\netcoreapp3.1\SnowBalls.exe
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\SnowBalls\bin\Debug\netcoreapp3.1\SnowBalls.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\SnowBalls\bin\Debug\netcoreapp3.1\SnowBalls.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\SnowBalls\bin\Debug\netcoreapp3.1\SnowBalls.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\SnowBalls\bin\Debug\netcoreapp3.1\SnowBalls.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\SnowBalls\bin\Debug\netcoreapp3.1\SnowBalls.pdb
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\SnowBalls\obj\Debug\netcoreapp3.1\SnowBalls.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\SnowBalls\obj\Debug\netcoreapp3.1\SnowBalls.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\SnowBalls\obj\Debug\netcoreapp3.1\SnowBalls.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\SnowBalls\obj\Debug\netcoreapp3.1\SnowBalls.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\SnowBalls\obj\Debug\netcoreapp3.1\SnowBalls.pdb

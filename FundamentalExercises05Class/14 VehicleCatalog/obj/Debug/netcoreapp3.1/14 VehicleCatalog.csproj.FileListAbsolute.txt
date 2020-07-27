@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises05Class\14 VehicleCatalog\bin\Debug\netcoreapp3.1\14 VehicleCatalog.exe
+C:\Users\anastas\source\repos\FundamentalExercises05Class\14 VehicleCatalog\bin\Debug\netcoreapp3.1\14 VehicleCatalog.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\14 VehicleCatalog\bin\Debug\netcoreapp3.1\14 VehicleCatalog.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\14 VehicleCatalog\bin\Debug\netcoreapp3.1\14 VehicleCatalog.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\14 VehicleCatalog\bin\Debug\netcoreapp3.1\14 VehicleCatalog.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\14 VehicleCatalog\bin\Debug\netcoreapp3.1\14 VehicleCatalog.pdb
+C:\Users\anastas\source\repos\FundamentalExercises05Class\14 VehicleCatalog\obj\Debug\netcoreapp3.1\14 VehicleCatalog.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\14 VehicleCatalog\obj\Debug\netcoreapp3.1\14 VehicleCatalog.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\14 VehicleCatalog\obj\Debug\netcoreapp3.1\14 VehicleCatalog.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises05Class\14 VehicleCatalog\obj\Debug\netcoreapp3.1\14 VehicleCatalog.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\14 VehicleCatalog\obj\Debug\netcoreapp3.1\14 VehicleCatalog.pdb

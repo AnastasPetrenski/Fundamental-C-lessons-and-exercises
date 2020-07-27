@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises05Class\10 Students\bin\Debug\netcoreapp3.1\10 Students.exe
+C:\Users\anastas\source\repos\FundamentalExercises05Class\10 Students\bin\Debug\netcoreapp3.1\10 Students.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\10 Students\bin\Debug\netcoreapp3.1\10 Students.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\10 Students\bin\Debug\netcoreapp3.1\10 Students.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\10 Students\bin\Debug\netcoreapp3.1\10 Students.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\10 Students\bin\Debug\netcoreapp3.1\10 Students.pdb
+C:\Users\anastas\source\repos\FundamentalExercises05Class\10 Students\obj\Debug\netcoreapp3.1\10 Students.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\10 Students\obj\Debug\netcoreapp3.1\10 Students.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\10 Students\obj\Debug\netcoreapp3.1\10 Students.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises05Class\10 Students\obj\Debug\netcoreapp3.1\10 Students.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\10 Students\obj\Debug\netcoreapp3.1\10 Students.pdb

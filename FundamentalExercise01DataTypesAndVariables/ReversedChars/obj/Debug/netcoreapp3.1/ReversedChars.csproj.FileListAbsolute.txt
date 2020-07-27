@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ReversedChars\bin\Debug\netcoreapp3.1\ReversedChars.exe
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ReversedChars\bin\Debug\netcoreapp3.1\ReversedChars.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ReversedChars\bin\Debug\netcoreapp3.1\ReversedChars.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ReversedChars\bin\Debug\netcoreapp3.1\ReversedChars.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ReversedChars\bin\Debug\netcoreapp3.1\ReversedChars.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ReversedChars\bin\Debug\netcoreapp3.1\ReversedChars.pdb
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ReversedChars\obj\Debug\netcoreapp3.1\ReversedChars.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ReversedChars\obj\Debug\netcoreapp3.1\ReversedChars.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ReversedChars\obj\Debug\netcoreapp3.1\ReversedChars.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ReversedChars\obj\Debug\netcoreapp3.1\ReversedChars.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ReversedChars\obj\Debug\netcoreapp3.1\ReversedChars.pdb

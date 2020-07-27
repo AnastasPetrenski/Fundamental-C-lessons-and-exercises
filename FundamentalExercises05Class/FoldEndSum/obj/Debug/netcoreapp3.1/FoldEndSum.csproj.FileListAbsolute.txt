@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises05Class\FoldEndSum\bin\Debug\netcoreapp3.1\FoldEndSum.exe
+C:\Users\anastas\source\repos\FundamentalExercises05Class\FoldEndSum\bin\Debug\netcoreapp3.1\FoldEndSum.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\FoldEndSum\bin\Debug\netcoreapp3.1\FoldEndSum.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\FoldEndSum\bin\Debug\netcoreapp3.1\FoldEndSum.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\FoldEndSum\bin\Debug\netcoreapp3.1\FoldEndSum.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\FoldEndSum\bin\Debug\netcoreapp3.1\FoldEndSum.pdb
+C:\Users\anastas\source\repos\FundamentalExercises05Class\FoldEndSum\obj\Debug\netcoreapp3.1\FoldEndSum.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\FoldEndSum\obj\Debug\netcoreapp3.1\FoldEndSum.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\FoldEndSum\obj\Debug\netcoreapp3.1\FoldEndSum.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises05Class\FoldEndSum\obj\Debug\netcoreapp3.1\FoldEndSum.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\FoldEndSum\obj\Debug\netcoreapp3.1\FoldEndSum.pdb

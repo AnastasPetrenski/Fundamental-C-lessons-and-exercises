@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercises04List\08 Train\bin\Debug\netcoreapp3.1\08 Train.exe
+C:\Users\anastas\source\repos\FundamentalExercises04List\08 Train\bin\Debug\netcoreapp3.1\08 Train.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\08 Train\bin\Debug\netcoreapp3.1\08 Train.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\08 Train\bin\Debug\netcoreapp3.1\08 Train.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\08 Train\bin\Debug\netcoreapp3.1\08 Train.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\08 Train\bin\Debug\netcoreapp3.1\08 Train.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\08 Train\obj\Debug\netcoreapp3.1\08 Train.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\08 Train\obj\Debug\netcoreapp3.1\08 Train.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises04List\08 Train\obj\Debug\netcoreapp3.1\08 Train.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\08 Train\obj\Debug\netcoreapp3.1\08 Train.pdb

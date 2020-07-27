@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\02 MatchPhoneNumber\bin\Debug\netcoreapp3.1\02 MatchPhoneNumber.exe
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\02 MatchPhoneNumber\bin\Debug\netcoreapp3.1\02 MatchPhoneNumber.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\02 MatchPhoneNumber\bin\Debug\netcoreapp3.1\02 MatchPhoneNumber.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\02 MatchPhoneNumber\bin\Debug\netcoreapp3.1\02 MatchPhoneNumber.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\02 MatchPhoneNumber\bin\Debug\netcoreapp3.1\02 MatchPhoneNumber.dll
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\02 MatchPhoneNumber\bin\Debug\netcoreapp3.1\02 MatchPhoneNumber.pdb
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\02 MatchPhoneNumber\obj\Debug\netcoreapp3.1\02 MatchPhoneNumber.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\02 MatchPhoneNumber\obj\Debug\netcoreapp3.1\02 MatchPhoneNumber.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\02 MatchPhoneNumber\obj\Debug\netcoreapp3.1\02 MatchPhoneNumber.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\02 MatchPhoneNumber\obj\Debug\netcoreapp3.1\02 MatchPhoneNumber.dll
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\02 MatchPhoneNumber\obj\Debug\netcoreapp3.1\02 MatchPhoneNumber.pdb

@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\WaterOverflow\bin\Debug\netcoreapp3.1\WaterOverflow.exe
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\WaterOverflow\bin\Debug\netcoreapp3.1\WaterOverflow.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\WaterOverflow\bin\Debug\netcoreapp3.1\WaterOverflow.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\WaterOverflow\bin\Debug\netcoreapp3.1\WaterOverflow.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\WaterOverflow\bin\Debug\netcoreapp3.1\WaterOverflow.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\WaterOverflow\bin\Debug\netcoreapp3.1\WaterOverflow.pdb
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\WaterOverflow\obj\Debug\netcoreapp3.1\WaterOverflow.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\WaterOverflow\obj\Debug\netcoreapp3.1\WaterOverflow.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\WaterOverflow\obj\Debug\netcoreapp3.1\WaterOverflow.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\WaterOverflow\obj\Debug\netcoreapp3.1\WaterOverflow.pdb

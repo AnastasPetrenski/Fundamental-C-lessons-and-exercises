@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises05Class\02 RandomizeString\bin\Debug\netcoreapp3.1\02 RandomizeString.exe
+C:\Users\anastas\source\repos\FundamentalExercises05Class\02 RandomizeString\bin\Debug\netcoreapp3.1\02 RandomizeString.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\02 RandomizeString\bin\Debug\netcoreapp3.1\02 RandomizeString.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\02 RandomizeString\bin\Debug\netcoreapp3.1\02 RandomizeString.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\02 RandomizeString\bin\Debug\netcoreapp3.1\02 RandomizeString.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\02 RandomizeString\bin\Debug\netcoreapp3.1\02 RandomizeString.pdb
+C:\Users\anastas\source\repos\FundamentalExercises05Class\02 RandomizeString\obj\Debug\netcoreapp3.1\02 RandomizeString.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\02 RandomizeString\obj\Debug\netcoreapp3.1\02 RandomizeString.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\02 RandomizeString\obj\Debug\netcoreapp3.1\02 RandomizeString.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises05Class\02 RandomizeString\obj\Debug\netcoreapp3.1\02 RandomizeString.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\02 RandomizeString\obj\Debug\netcoreapp3.1\02 RandomizeString.pdb

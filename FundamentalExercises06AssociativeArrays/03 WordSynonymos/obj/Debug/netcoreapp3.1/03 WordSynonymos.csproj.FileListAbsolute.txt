@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\03 WordSynonymos\bin\Debug\netcoreapp3.1\03 WordSynonymos.exe
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\03 WordSynonymos\bin\Debug\netcoreapp3.1\03 WordSynonymos.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\03 WordSynonymos\bin\Debug\netcoreapp3.1\03 WordSynonymos.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\03 WordSynonymos\bin\Debug\netcoreapp3.1\03 WordSynonymos.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\03 WordSynonymos\bin\Debug\netcoreapp3.1\03 WordSynonymos.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\03 WordSynonymos\bin\Debug\netcoreapp3.1\03 WordSynonymos.pdb
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\03 WordSynonymos\obj\Debug\netcoreapp3.1\03 WordSynonymos.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\03 WordSynonymos\obj\Debug\netcoreapp3.1\03 WordSynonymos.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\03 WordSynonymos\obj\Debug\netcoreapp3.1\03 WordSynonymos.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\03 WordSynonymos\obj\Debug\netcoreapp3.1\03 WordSynonymos.pdb
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\03 WordSynonymos\obj\Debug\netcoreapp3.1\03 WordSynonymos.csprojAssemblyReference.cache

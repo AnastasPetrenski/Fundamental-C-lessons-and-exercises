@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\06 CountCharsInAString\bin\Debug\netcoreapp3.1\06 CountCharsInAString.exe
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\06 CountCharsInAString\bin\Debug\netcoreapp3.1\06 CountCharsInAString.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\06 CountCharsInAString\bin\Debug\netcoreapp3.1\06 CountCharsInAString.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\06 CountCharsInAString\bin\Debug\netcoreapp3.1\06 CountCharsInAString.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\06 CountCharsInAString\bin\Debug\netcoreapp3.1\06 CountCharsInAString.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\06 CountCharsInAString\bin\Debug\netcoreapp3.1\06 CountCharsInAString.pdb
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\06 CountCharsInAString\obj\Debug\netcoreapp3.1\06 CountCharsInAString.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\06 CountCharsInAString\obj\Debug\netcoreapp3.1\06 CountCharsInAString.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\06 CountCharsInAString\obj\Debug\netcoreapp3.1\06 CountCharsInAString.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\06 CountCharsInAString\obj\Debug\netcoreapp3.1\06 CountCharsInAString.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\06 CountCharsInAString\obj\Debug\netcoreapp3.1\06 CountCharsInAString.pdb

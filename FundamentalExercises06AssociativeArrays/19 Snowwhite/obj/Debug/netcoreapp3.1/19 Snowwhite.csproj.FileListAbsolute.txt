@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\19 Snowwhite\bin\Debug\netcoreapp3.1\19 Snowwhite.exe
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\19 Snowwhite\bin\Debug\netcoreapp3.1\19 Snowwhite.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\19 Snowwhite\bin\Debug\netcoreapp3.1\19 Snowwhite.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\19 Snowwhite\bin\Debug\netcoreapp3.1\19 Snowwhite.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\19 Snowwhite\bin\Debug\netcoreapp3.1\19 Snowwhite.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\19 Snowwhite\bin\Debug\netcoreapp3.1\19 Snowwhite.pdb
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\19 Snowwhite\obj\Debug\netcoreapp3.1\19 Snowwhite.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\19 Snowwhite\obj\Debug\netcoreapp3.1\19 Snowwhite.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\19 Snowwhite\obj\Debug\netcoreapp3.1\19 Snowwhite.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\19 Snowwhite\obj\Debug\netcoreapp3.1\19 Snowwhite.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\19 Snowwhite\obj\Debug\netcoreapp3.1\19 Snowwhite.pdb

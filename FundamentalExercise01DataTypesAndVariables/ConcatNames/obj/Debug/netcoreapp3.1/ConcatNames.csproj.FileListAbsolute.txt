@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ConcatNames\bin\Debug\netcoreapp3.1\ConcatNames.exe
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ConcatNames\bin\Debug\netcoreapp3.1\ConcatNames.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ConcatNames\bin\Debug\netcoreapp3.1\ConcatNames.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ConcatNames\bin\Debug\netcoreapp3.1\ConcatNames.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ConcatNames\bin\Debug\netcoreapp3.1\ConcatNames.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ConcatNames\bin\Debug\netcoreapp3.1\ConcatNames.pdb
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ConcatNames\obj\Debug\netcoreapp3.1\ConcatNames.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ConcatNames\obj\Debug\netcoreapp3.1\ConcatNames.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ConcatNames\obj\Debug\netcoreapp3.1\ConcatNames.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ConcatNames\obj\Debug\netcoreapp3.1\ConcatNames.dll
+C:\Users\anastas\source\repos\FundamentalExercise01DataTypesAndVariables\ConcatNames\obj\Debug\netcoreapp3.1\ConcatNames.pdb

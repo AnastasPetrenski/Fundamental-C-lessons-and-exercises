@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LadyBugsTryCatch\bin\Debug\netcoreapp3.1\LadyBugsTryCatch.exe
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LadyBugsTryCatch\bin\Debug\netcoreapp3.1\LadyBugsTryCatch.deps.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LadyBugsTryCatch\bin\Debug\netcoreapp3.1\LadyBugsTryCatch.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LadyBugsTryCatch\bin\Debug\netcoreapp3.1\LadyBugsTryCatch.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LadyBugsTryCatch\bin\Debug\netcoreapp3.1\LadyBugsTryCatch.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LadyBugsTryCatch\bin\Debug\netcoreapp3.1\LadyBugsTryCatch.pdb
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LadyBugsTryCatch\obj\Debug\netcoreapp3.1\LadyBugsTryCatch.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LadyBugsTryCatch\obj\Debug\netcoreapp3.1\LadyBugsTryCatch.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LadyBugsTryCatch\obj\Debug\netcoreapp3.1\LadyBugsTryCatch.dll
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LadyBugsTryCatch\obj\Debug\netcoreapp3.1\LadyBugsTryCatch.pdb
+C:\Users\anastas\source\repos\FundamentalExercise02Arrays\LadyBugsTryCatch\obj\Debug\netcoreapp3.1\LadyBugsTryCatch.csprojAssemblyReference.cache

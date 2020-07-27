@@ -1,0 +1,10 @@
+C:\Users\anastas\source\repos\FundamentalExercises04List\20 CarsRace\obj\Debug\netcoreapp3.1\20 CarsRace.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\20 CarsRace\obj\Debug\netcoreapp3.1\20 CarsRace.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises04List\20 CarsRace\bin\Debug\netcoreapp3.1\20 CarsRace.exe
+C:\Users\anastas\source\repos\FundamentalExercises04List\20 CarsRace\bin\Debug\netcoreapp3.1\20 CarsRace.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\20 CarsRace\bin\Debug\netcoreapp3.1\20 CarsRace.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\20 CarsRace\bin\Debug\netcoreapp3.1\20 CarsRace.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\20 CarsRace\bin\Debug\netcoreapp3.1\20 CarsRace.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\20 CarsRace\bin\Debug\netcoreapp3.1\20 CarsRace.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\20 CarsRace\obj\Debug\netcoreapp3.1\20 CarsRace.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\20 CarsRace\obj\Debug\netcoreapp3.1\20 CarsRace.pdb

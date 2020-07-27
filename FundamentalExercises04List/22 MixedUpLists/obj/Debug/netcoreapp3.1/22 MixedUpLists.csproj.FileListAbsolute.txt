@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises04List\22 MixedUpLists\bin\Debug\netcoreapp3.1\22 MixedUpLists.exe
+C:\Users\anastas\source\repos\FundamentalExercises04List\22 MixedUpLists\bin\Debug\netcoreapp3.1\22 MixedUpLists.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\22 MixedUpLists\bin\Debug\netcoreapp3.1\22 MixedUpLists.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\22 MixedUpLists\bin\Debug\netcoreapp3.1\22 MixedUpLists.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\22 MixedUpLists\bin\Debug\netcoreapp3.1\22 MixedUpLists.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\22 MixedUpLists\bin\Debug\netcoreapp3.1\22 MixedUpLists.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\22 MixedUpLists\obj\Debug\netcoreapp3.1\22 MixedUpLists.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\22 MixedUpLists\obj\Debug\netcoreapp3.1\22 MixedUpLists.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\22 MixedUpLists\obj\Debug\netcoreapp3.1\22 MixedUpLists.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises04List\22 MixedUpLists\obj\Debug\netcoreapp3.1\22 MixedUpLists.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\22 MixedUpLists\obj\Debug\netcoreapp3.1\22 MixedUpLists.pdb

@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\20 DragonArmy\bin\Debug\netcoreapp3.1\20 DragonArmy.exe
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\20 DragonArmy\bin\Debug\netcoreapp3.1\20 DragonArmy.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\20 DragonArmy\bin\Debug\netcoreapp3.1\20 DragonArmy.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\20 DragonArmy\bin\Debug\netcoreapp3.1\20 DragonArmy.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\20 DragonArmy\bin\Debug\netcoreapp3.1\20 DragonArmy.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\20 DragonArmy\bin\Debug\netcoreapp3.1\20 DragonArmy.pdb
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\20 DragonArmy\obj\Debug\netcoreapp3.1\20 DragonArmy.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\20 DragonArmy\obj\Debug\netcoreapp3.1\20 DragonArmy.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\20 DragonArmy\obj\Debug\netcoreapp3.1\20 DragonArmy.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\20 DragonArmy\obj\Debug\netcoreapp3.1\20 DragonArmy.dll
+C:\Users\anastas\source\repos\FundamentalExercises06AssociativeArrays\20 DragonArmy\obj\Debug\netcoreapp3.1\20 DragonArmy.pdb

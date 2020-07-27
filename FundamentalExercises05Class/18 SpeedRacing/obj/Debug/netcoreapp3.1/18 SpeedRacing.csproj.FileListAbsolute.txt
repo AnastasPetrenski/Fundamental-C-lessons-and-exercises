@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises05Class\18 SpeedRacing\bin\Debug\netcoreapp3.1\18 SpeedRacing.exe
+C:\Users\anastas\source\repos\FundamentalExercises05Class\18 SpeedRacing\bin\Debug\netcoreapp3.1\18 SpeedRacing.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\18 SpeedRacing\bin\Debug\netcoreapp3.1\18 SpeedRacing.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\18 SpeedRacing\bin\Debug\netcoreapp3.1\18 SpeedRacing.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises05Class\18 SpeedRacing\bin\Debug\netcoreapp3.1\18 SpeedRacing.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\18 SpeedRacing\bin\Debug\netcoreapp3.1\18 SpeedRacing.pdb
+C:\Users\anastas\source\repos\FundamentalExercises05Class\18 SpeedRacing\obj\Debug\netcoreapp3.1\18 SpeedRacing.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\18 SpeedRacing\obj\Debug\netcoreapp3.1\18 SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises05Class\18 SpeedRacing\obj\Debug\netcoreapp3.1\18 SpeedRacing.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises05Class\18 SpeedRacing\obj\Debug\netcoreapp3.1\18 SpeedRacing.dll
+C:\Users\anastas\source\repos\FundamentalExercises05Class\18 SpeedRacing\obj\Debug\netcoreapp3.1\18 SpeedRacing.pdb

@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\04 Furniture\bin\Debug\netcoreapp3.1\04 Furniture.exe
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\04 Furniture\bin\Debug\netcoreapp3.1\04 Furniture.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\04 Furniture\bin\Debug\netcoreapp3.1\04 Furniture.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\04 Furniture\bin\Debug\netcoreapp3.1\04 Furniture.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\04 Furniture\bin\Debug\netcoreapp3.1\04 Furniture.dll
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\04 Furniture\bin\Debug\netcoreapp3.1\04 Furniture.pdb
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\04 Furniture\obj\Debug\netcoreapp3.1\04 Furniture.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\04 Furniture\obj\Debug\netcoreapp3.1\04 Furniture.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\04 Furniture\obj\Debug\netcoreapp3.1\04 Furniture.dll
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\04 Furniture\obj\Debug\netcoreapp3.1\04 Furniture.pdb
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\04 Furniture\obj\Debug\netcoreapp3.1\04 Furniture.csprojAssemblyReference.cache

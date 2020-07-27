@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises04List\18 SoftUniCourPlanning\obj\Debug\netcoreapp3.1\18 SoftUniCourPlanning.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises04List\18 SoftUniCourPlanning\obj\Debug\netcoreapp3.1\18 SoftUniCourPlanning.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises04List\18 SoftUniCourPlanning\bin\Debug\netcoreapp3.1\18 SoftUniCourPlanning.exe
+C:\Users\anastas\source\repos\FundamentalExercises04List\18 SoftUniCourPlanning\bin\Debug\netcoreapp3.1\18 SoftUniCourPlanning.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\18 SoftUniCourPlanning\bin\Debug\netcoreapp3.1\18 SoftUniCourPlanning.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\18 SoftUniCourPlanning\bin\Debug\netcoreapp3.1\18 SoftUniCourPlanning.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises04List\18 SoftUniCourPlanning\bin\Debug\netcoreapp3.1\18 SoftUniCourPlanning.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\18 SoftUniCourPlanning\bin\Debug\netcoreapp3.1\18 SoftUniCourPlanning.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\18 SoftUniCourPlanning\obj\Debug\netcoreapp3.1\18 SoftUniCourPlanning.dll
+C:\Users\anastas\source\repos\FundamentalExercises04List\18 SoftUniCourPlanning\obj\Debug\netcoreapp3.1\18 SoftUniCourPlanning.pdb
+C:\Users\anastas\source\repos\FundamentalExercises04List\18 SoftUniCourPlanning\obj\Debug\netcoreapp3.1\18 SoftUniCourPlanning.csprojAssemblyReference.cache

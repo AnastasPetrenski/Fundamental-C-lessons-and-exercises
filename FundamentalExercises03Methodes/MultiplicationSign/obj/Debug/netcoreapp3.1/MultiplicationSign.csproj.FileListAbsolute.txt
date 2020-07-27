@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\MultiplicationSign\bin\Debug\netcoreapp3.1\MultiplicationSign.exe
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\MultiplicationSign\bin\Debug\netcoreapp3.1\MultiplicationSign.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\MultiplicationSign\bin\Debug\netcoreapp3.1\MultiplicationSign.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\MultiplicationSign\bin\Debug\netcoreapp3.1\MultiplicationSign.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\MultiplicationSign\bin\Debug\netcoreapp3.1\MultiplicationSign.dll
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\MultiplicationSign\bin\Debug\netcoreapp3.1\MultiplicationSign.pdb
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\MultiplicationSign\obj\Debug\netcoreapp3.1\MultiplicationSign.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\MultiplicationSign\obj\Debug\netcoreapp3.1\MultiplicationSign.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\MultiplicationSign\obj\Debug\netcoreapp3.1\MultiplicationSign.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\MultiplicationSign\obj\Debug\netcoreapp3.1\MultiplicationSign.dll
+C:\Users\anastas\source\repos\FundamentalExercises03Methodes\MultiplicationSign\obj\Debug\netcoreapp3.1\MultiplicationSign.pdb

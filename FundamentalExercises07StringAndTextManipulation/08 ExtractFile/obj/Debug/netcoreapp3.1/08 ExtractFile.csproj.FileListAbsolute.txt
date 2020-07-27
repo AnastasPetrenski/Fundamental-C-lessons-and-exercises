@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\08 ExtractFile\bin\Debug\netcoreapp3.1\08 ExtractFile.exe
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\08 ExtractFile\bin\Debug\netcoreapp3.1\08 ExtractFile.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\08 ExtractFile\bin\Debug\netcoreapp3.1\08 ExtractFile.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\08 ExtractFile\bin\Debug\netcoreapp3.1\08 ExtractFile.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\08 ExtractFile\bin\Debug\netcoreapp3.1\08 ExtractFile.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\08 ExtractFile\bin\Debug\netcoreapp3.1\08 ExtractFile.pdb
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\08 ExtractFile\obj\Debug\netcoreapp3.1\08 ExtractFile.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\08 ExtractFile\obj\Debug\netcoreapp3.1\08 ExtractFile.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\08 ExtractFile\obj\Debug\netcoreapp3.1\08 ExtractFile.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\08 ExtractFile\obj\Debug\netcoreapp3.1\08 ExtractFile.dll
+C:\Users\anastas\source\repos\FundamentalExercises07StringAndTextManipulation\08 ExtractFile\obj\Debug\netcoreapp3.1\08 ExtractFile.pdb
