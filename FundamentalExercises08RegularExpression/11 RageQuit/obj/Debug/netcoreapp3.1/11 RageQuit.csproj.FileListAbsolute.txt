@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\11 RageQuit\bin\Debug\netcoreapp3.1\11 RageQuit.exe
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\11 RageQuit\bin\Debug\netcoreapp3.1\11 RageQuit.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\11 RageQuit\bin\Debug\netcoreapp3.1\11 RageQuit.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\11 RageQuit\bin\Debug\netcoreapp3.1\11 RageQuit.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\11 RageQuit\bin\Debug\netcoreapp3.1\11 RageQuit.dll
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\11 RageQuit\bin\Debug\netcoreapp3.1\11 RageQuit.pdb
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\11 RageQuit\obj\Debug\netcoreapp3.1\11 RageQuit.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\11 RageQuit\obj\Debug\netcoreapp3.1\11 RageQuit.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\11 RageQuit\obj\Debug\netcoreapp3.1\11 RageQuit.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\11 RageQuit\obj\Debug\netcoreapp3.1\11 RageQuit.dll
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\11 RageQuit\obj\Debug\netcoreapp3.1\11 RageQuit.pdb

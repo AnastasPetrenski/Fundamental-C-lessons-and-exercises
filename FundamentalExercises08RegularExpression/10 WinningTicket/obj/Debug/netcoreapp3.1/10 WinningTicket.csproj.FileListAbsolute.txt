@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\10 WinningTicket\bin\Debug\netcoreapp3.1\10 WinningTicket.exe
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\10 WinningTicket\bin\Debug\netcoreapp3.1\10 WinningTicket.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\10 WinningTicket\bin\Debug\netcoreapp3.1\10 WinningTicket.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\10 WinningTicket\bin\Debug\netcoreapp3.1\10 WinningTicket.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\10 WinningTicket\bin\Debug\netcoreapp3.1\10 WinningTicket.dll
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\10 WinningTicket\bin\Debug\netcoreapp3.1\10 WinningTicket.pdb
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\10 WinningTicket\obj\Debug\netcoreapp3.1\10 WinningTicket.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\10 WinningTicket\obj\Debug\netcoreapp3.1\10 WinningTicket.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\10 WinningTicket\obj\Debug\netcoreapp3.1\10 WinningTicket.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\10 WinningTicket\obj\Debug\netcoreapp3.1\10 WinningTicket.dll
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\10 WinningTicket\obj\Debug\netcoreapp3.1\10 WinningTicket.pdb

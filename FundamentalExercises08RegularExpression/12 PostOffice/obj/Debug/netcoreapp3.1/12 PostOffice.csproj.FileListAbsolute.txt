@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\12 PostOffice\bin\Debug\netcoreapp3.1\12 PostOffice.exe
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\12 PostOffice\bin\Debug\netcoreapp3.1\12 PostOffice.deps.json
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\12 PostOffice\bin\Debug\netcoreapp3.1\12 PostOffice.runtimeconfig.json
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\12 PostOffice\bin\Debug\netcoreapp3.1\12 PostOffice.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\12 PostOffice\bin\Debug\netcoreapp3.1\12 PostOffice.dll
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\12 PostOffice\bin\Debug\netcoreapp3.1\12 PostOffice.pdb
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\12 PostOffice\obj\Debug\netcoreapp3.1\12 PostOffice.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\12 PostOffice\obj\Debug\netcoreapp3.1\12 PostOffice.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\12 PostOffice\obj\Debug\netcoreapp3.1\12 PostOffice.AssemblyInfo.cs
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\12 PostOffice\obj\Debug\netcoreapp3.1\12 PostOffice.dll
+C:\Users\anastas\source\repos\FundamentalExercises08RegularExpression\12 PostOffice\obj\Debug\netcoreapp3.1\12 PostOffice.pdb
